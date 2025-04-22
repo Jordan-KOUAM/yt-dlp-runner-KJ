@@ -121,7 +121,7 @@
     },
     {
       "title": "Le slogan d'Apple, c'est de l'horoscope",
-      "view_count": 3500,
+      "view_count": 3600,
       "thumbnails": [
         {
           "url": "https://i.ytimg.com/vi/uLwbuxQkzOk/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAS-8uCPeBTR3IR6H93Ak9KosvSxg",
@@ -2815,7 +2815,7 @@
   "webpage_url_basename": "shorts",
   "webpage_url_domain": "youtube.com",
   "release_year": null,
-  "epoch": 1745351623,
+  "epoch": 1745352699,
   "__files_to_move": {},
   "_version": {
     "version": "2025.03.31",
