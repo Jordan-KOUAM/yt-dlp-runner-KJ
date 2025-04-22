@@ -1,0 +1,29 @@
+name: Scrape YouTube Channel
+
+on:
+  workflow_dispatch:
+    inputs:
+      youtube_url:
+        description: 'YouTube Channel URL'
+        required: true
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    - name: Install yt-dlp
+      run: pip install yt-dlp
+    - name: Run yt-dlp
+      run: python main.py "${{ github.event.inputs.youtube_url }}"
+    - name: Commit output
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add output.json
+        git commit -m "update output"
+        git push
