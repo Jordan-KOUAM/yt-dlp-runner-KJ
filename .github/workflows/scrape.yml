@@ -21,9 +21,12 @@ jobs:
     - name: Run yt-dlp
       run: python main.py "${{ github.event.inputs.youtube_url }}"
     - name: Commit output
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         git config user.name github-actions
         git config user.email github-actions@github.com
         git add output.json
         git commit -m "update output"
-        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+        git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+
