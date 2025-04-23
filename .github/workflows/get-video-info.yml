@@ -23,6 +23,11 @@ jobs:
     - name: Install yt-dlp
       run: pip install yt-dlp
 
+    - name: Decode base64 cookie and create cookies.txt
+      run: |
+        mkdir -p .private
+        base64 -d .private/cookie.txt.base64 > cookies.txt
+
     - name: Prepare output filename
       id: prep
       run: |
@@ -34,14 +39,10 @@ jobs:
         echo "filename=$filename" >> $GITHUB_ENV
         echo "filename=$filename" >> "$GITHUB_OUTPUT"
 
-    - name: Run yt-dlp to fetch video metadata
+    - name: Run yt-dlp with cookies
       run: |
         url="${{ github.event.inputs.video_url }}"
-
-        # Si besoin d'ajouter les cookies, créer un fichier cookies.txt et utiliser l'option --cookies
-        # Exemple : yt-dlp --cookies cookies.txt --dump-json "$url"
-        
-        yt-dlp --no-playlist --dump-single-json "$url" > "${{ env.filename }}"
+        yt-dlp --no-playlist --cookies cookies.txt --dump-single-json "$url" > "${{ env.filename }}"
 
     - name: Commit result JSON
       env:
