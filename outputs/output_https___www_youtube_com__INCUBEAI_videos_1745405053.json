@@ -1,0 +1,2427 @@
+{
+  "id": "UCfVzRZ0suvUDF3ynprg4kFg",
+  "channel": "INCUBEAI",
+  "channel_id": "UCfVzRZ0suvUDF3ynprg4kFg",
+  "title": "INCUBEAI - Videos",
+  "availability": null,
+  "channel_follower_count": 4770,
+  "description": "Здесь мы рассказываем про нейросети и зерокодинг. Автоматизируй бизнес и жизнь.\n\nБудьте в курсе свежих тенденций и нововведений в мире ИИ!\n",
+  "tags": [],
+  "thumbnails": [
+    {
+      "url": "https://yt3.googleusercontent.com/zq3RpFK8JGV-_gOKKHEQxPAlZjwsxkz-b2Z5dhGendS7CvRIFupxkAlhPmXvBnbG-s0r_-1uqKg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 175,
+      "width": 1060,
+      "preference": -10,
+      "id": "0",
+      "resolution": "1060x175"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/zq3RpFK8JGV-_gOKKHEQxPAlZjwsxkz-b2Z5dhGendS7CvRIFupxkAlhPmXvBnbG-s0r_-1uqKg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 188,
+      "width": 1138,
+      "preference": -10,
+      "id": "1",
+      "resolution": "1138x188"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/zq3RpFK8JGV-_gOKKHEQxPAlZjwsxkz-b2Z5dhGendS7CvRIFupxkAlhPmXvBnbG-s0r_-1uqKg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 283,
+      "width": 1707,
+      "preference": -10,
+      "id": "2",
+      "resolution": "1707x283"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/zq3RpFK8JGV-_gOKKHEQxPAlZjwsxkz-b2Z5dhGendS7CvRIFupxkAlhPmXvBnbG-s0r_-1uqKg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 351,
+      "width": 2120,
+      "preference": -10,
+      "id": "3",
+      "resolution": "2120x351"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/zq3RpFK8JGV-_gOKKHEQxPAlZjwsxkz-b2Z5dhGendS7CvRIFupxkAlhPmXvBnbG-s0r_-1uqKg=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 377,
+      "width": 2276,
+      "preference": -10,
+      "id": "4",
+      "resolution": "2276x377"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/zq3RpFK8JGV-_gOKKHEQxPAlZjwsxkz-b2Z5dhGendS7CvRIFupxkAlhPmXvBnbG-s0r_-1uqKg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 424,
+      "width": 2560,
+      "preference": -10,
+      "id": "5",
+      "resolution": "2560x424"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/zq3RpFK8JGV-_gOKKHEQxPAlZjwsxkz-b2Z5dhGendS7CvRIFupxkAlhPmXvBnbG-s0r_-1uqKg=s0",
+      "id": "banner_uncropped",
+      "preference": -5
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/s7x6rE3yImVsHWwm4Thy2SVkFQtSZYqYZXvc0Waii6-5eGGoiR25YlYY2LGOaUts-eauIfm6=s900-c-k-c0x00ffffff-no-rj",
+      "height": 900,
+      "width": 900,
+      "id": "7",
+      "resolution": "900x900"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/s7x6rE3yImVsHWwm4Thy2SVkFQtSZYqYZXvc0Waii6-5eGGoiR25YlYY2LGOaUts-eauIfm6=s0",
+      "id": "avatar_uncropped",
+      "preference": 1
+    }
+  ],
+  "uploader_id": "@INCUBEAI",
+  "uploader_url": "https://www.youtube.com/@INCUBEAI",
+  "modified_date": null,
+  "view_count": null,
+  "playlist_count": 53,
+  "uploader": "INCUBEAI",
+  "channel_url": "https://www.youtube.com/channel/UCfVzRZ0suvUDF3ynprg4kFg",
+  "_type": "playlist",
+  "entries": [
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "1f8nRXB0gMs",
+      "url": "https://www.youtube.com/watch?v=1f8nRXB0gMs",
+      "title": "БЕСКОНЕЧНЫЙ АВТОПОТОК ЛИДОВ С НОВЕЙШИМ ИНСТРУМЕНТОМ MCP!",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\nСылки наших партнеров:\nMake.com https://www.make.com/en/...",
+      "duration": 980.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/1f8nRXB0gMs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAV3xQhfoMuDmj0i2WDUm-zOnWIRg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1f8nRXB0gMs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZQ59tFkgUcmwkmGasBfXimh0eqw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1f8nRXB0gMs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNWhheNdTj7US7K-vF4XmASBF1sQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1f8nRXB0gMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCICuvHLVjcAdXkEboN0ym6fMe5DA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 3326,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "t2wKy7UlT7c",
+      "url": "https://www.youtube.com/watch?v=t2wKy7UlT7c",
+      "title": "Ты ещё делаешь контент вручную? Вот как я автоматизировал всё!",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\nСылки наших партнеров:\nMake.com https://www.make.com/en/...",
+      "duration": 732.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/t2wKy7UlT7c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB3xYiUaltXvjTCtNKGRlGnlbdwqQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/t2wKy7UlT7c/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAkZ7ABNteJwDMiWaxPx3Juu4dmDQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/t2wKy7UlT7c/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvJxWCDg2CMXRKPNknHSgjvHzZiw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/t2wKy7UlT7c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDICImvdDclGmXO-xNn3eP_kCSCeg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1408,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "9cO8TjCrMDs",
+      "url": "https://www.youtube.com/watch?v=9cO8TjCrMDs",
+      "title": "Этот бот — моя копия. И он реально работает в N8N!",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\nСылки наших партнеров:\nMake.com https://www.make.com/en/...",
+      "duration": 829.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9cO8TjCrMDs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCnBeGS0awHUwSZcvQ9Ab83m9bl8A",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9cO8TjCrMDs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAKoAA0BMcZsifw_fyucr_pbFiQhg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9cO8TjCrMDs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCscQxGHgxEp2tmpxBvhT0a6fK7w",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9cO8TjCrMDs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBErtpgErmeF-aFjfxrrhXARcc_qA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1641,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "Jf-QclrD9DA",
+      "url": "https://www.youtube.com/watch?v=Jf-QclrD9DA",
+      "title": "ЛЕГЧАЙШИЙ СПОСОБ ЗАРАБОТКА НА ИИ ПОДКАСТАХ!",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\nСылки наших партнеров:\nMake.com https://www.make.com/en/...",
+      "duration": 630.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Jf-QclrD9DA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC7-9xV2ixmonFaA3gUMP1spzFy5Q",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Jf-QclrD9DA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCIFS8KeJnMtJqrnEEJOxwmVKwORg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Jf-QclrD9DA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACc6agc7hhIwaII7Za0_Xc4Cqjlw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Jf-QclrD9DA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1Pqo0PJ_sBBhkOBOrNC0WxOtbTg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1833,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "r17NgMkg_6c",
+      "url": "https://www.youtube.com/watch?v=r17NgMkg_6c",
+      "title": "Секрет десятков миллионов просмотров на автомате: как N8N создает вирусный контент!",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\nСылки наших партнеров:\nMake.com https://www.make.com/en/...",
+      "duration": 947.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/r17NgMkg_6c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLABlYMUpsqo9EE8GQx9PM6RnH0WuQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/r17NgMkg_6c/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCel_75xpue_hgDoETStkTK6lcZIg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/r17NgMkg_6c/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvZyBaDXAUMLxsoKD0k17dP92Opg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/r17NgMkg_6c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5YS2mEYHkUPaec9c6zW86Cumupw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 2760,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "b3Gl8tM_qHE",
+      "url": "https://www.youtube.com/watch?v=b3Gl8tM_qHE",
+      "title": "КАК СДЕЛАТЬ БЕЗЛИМИТНЫЙ N8N ЛОКАЛЬНО НА ТВОЕМ КОМПЬЮТЕРЕ!",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\nСылки наших партнеров:\nMake.com https://www.make.com/en/...",
+      "duration": 514.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/b3Gl8tM_qHE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4MNBJiBWSyndac28kH8C5CKlScQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/b3Gl8tM_qHE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBnWPN83yMj2uBsAU3EId7DCRm7hQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/b3Gl8tM_qHE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAs57smkctbz9ywBZjRhp7VTTpV9g",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/b3Gl8tM_qHE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkFWHMfQo_9AwM5Ij5L42rX_8fuQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 10496,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "dTaGqwbToxo",
+      "url": "https://www.youtube.com/watch?v=dTaGqwbToxo",
+      "title": "УБИЙЦА PERPLEXITY! ГПТ С ПОИСКОМ В ТВОЕМ ТЕЛЕГРАМ БОТЕ!",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\nСылки наших партнеров:\nMake.com https://www.make.com/en/...",
+      "duration": 535.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/dTaGqwbToxo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBB5r8MD6rbPcDkes5tU_B6-PoiiA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dTaGqwbToxo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDVGcyNflHhZ2n4-8hpEBm85m6OCQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dTaGqwbToxo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBps4lDSyLTbNyaI484jNePuULbgw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dTaGqwbToxo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkcH8_VO3wpACB67s9XXRl2dPc9g",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 723,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "N-2LFnPkouk",
+      "url": "https://www.youtube.com/watch?v=N-2LFnPkouk",
+      "title": "ЭТОТ ИИ АССИСТЕНТ СДЕЛАЕТ ИЗ ТЕБЯ ТОНИ СТАРКА! JARVIS В ТВОЕМ ТЕЛЕГРАМ БОТЕ!",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 1481.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/N-2LFnPkouk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAN9S_Ged4ilYUAzNt7gJ5T2ysSqw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/N-2LFnPkouk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDGp-asgArMLrZ217iTJB5-RAu3wg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/N-2LFnPkouk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2UPnP4zaWobwWemc1XsyI-aUAKQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/N-2LFnPkouk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6ad9kyt0eAOoUEdptqiFPMGsDCA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 3457,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "gNUUCNXuDd8",
+      "url": "https://www.youtube.com/watch?v=gNUUCNXuDd8",
+      "title": "Лучший ИИ Grok в твоем Telegram-боте: как я это сделал с Make.com",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 799.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/gNUUCNXuDd8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBP8_t8WmHMi75-jN9QDs36P5En5g",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gNUUCNXuDd8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLClUcomhAA546qeT0HLgzQ-n3qYZQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gNUUCNXuDd8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAbNrLHAsLnD8AycdI-lfLMPA6mw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gNUUCNXuDd8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8Ej9VURuc_tahTrugudSnjTfH3Q",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1900,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "lCt2fX0cfv8",
+      "url": "https://www.youtube.com/watch?v=lCt2fX0cfv8",
+      "title": "ПРОВАЛ CHATGPT 4.5, Я ОТМЕНЯЮ СВОЮ ПОДПИСКУ!",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 810.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/lCt2fX0cfv8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCON_d-u4eDJAaOPZK6ZaTQjmhHAg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lCt2fX0cfv8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJIJmcmHq4g1AssKWD9refzbZhfg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lCt2fX0cfv8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_eybp5oQaI4loULntAnTU9y-XBw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lCt2fX0cfv8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsq_ml24zDeqK-jawjMgsU5L33xQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1293,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "xdwZddZd4M0",
+      "url": "https://www.youtube.com/watch?v=xdwZddZd4M0",
+      "title": "ПОВТОРИ ЭТО И ЗАБУДЬ О СОЗДАНИИ КОНТЕНТА! 100% АВТОМАТИЗИРОВАННЫЕ РИЛСЫ В ТВОЕМ ТЕЛЕГРАМ БОТЕ!",
+      "description": "Ждем вас в наших телеграм каналах! Там ответим на все вопросы!\n\n🔥 Наша Закрытая группа, шаблоны, трансляции...",
+      "duration": 975.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/xdwZddZd4M0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAF2sqyDuECtZ3HTM7bZHdMkFZKRg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/xdwZddZd4M0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4AfoiZRAQ0ot7uiXjaNiWRAzfUQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/xdwZddZd4M0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJIa6tSLh3lnwHkB3mTjdzRkLavg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/xdwZddZd4M0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3vveF2bc6nrZwmlnIk7ARfbq-2A",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 4206,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "4qxJqGH-ChM",
+      "url": "https://www.youtube.com/watch?v=4qxJqGH-ChM",
+      "title": "100 ВИДЕО В ДЕНЬ НА АВТОМАТЕ!",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 674.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/4qxJqGH-ChM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCzttUuzrqBDp-V8_kyAZeATfkblA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4qxJqGH-ChM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDa4BUtz8SXPIi9-CgS9fVfJJ69AQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4qxJqGH-ChM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN-1IguAsZWUoQiZBCYa7cJv-Akw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4qxJqGH-ChM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7G-YKTIEPdEd7LK2OTTywTwd4pQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 5831,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "BlyKcM6XZk0",
+      "url": "https://www.youtube.com/watch?v=BlyKcM6XZk0",
+      "title": "Как Я Заработал 381 527 Рублей С ChatGPT За 30 Дней…",
+      "description": "В этом видео я расскажу, как я заработал 381 527 рублей с помощью ChatGPT всего за 30 дней. Вы узнаете, с чего начался...",
+      "duration": 685.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/BlyKcM6XZk0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBoBVSSceH34tEHCKEUuX1fNZssaw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BlyKcM6XZk0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBbihtsKKN7e1301VF2sChGS6_2WQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BlyKcM6XZk0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy40olT26ZjzRkYlXA-Pkd8IJQqg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BlyKcM6XZk0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDW0w1uE9-kOSYVtoPYH4gpKgjyfQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 2527,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "aNBLCcSMvDs",
+      "url": "https://www.youtube.com/watch?v=aNBLCcSMvDs",
+      "title": "ChatGPT: Полный Курс Для Новичков",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 771.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/aNBLCcSMvDs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4ivNSQlHXENJD-2jXD6-QHEGgIg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aNBLCcSMvDs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLHf04Zjg8kmnVjpScKnOaIrjC4w",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aNBLCcSMvDs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUDp-_T8fqRcbOmIgw3SCyKmHI6w",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aNBLCcSMvDs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLhadqBEZfkVFrwSqppB_ooOPKFw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 578,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "DD4TWofeRIY",
+      "url": "https://www.youtube.com/watch?v=DD4TWofeRIY",
+      "title": "Make.com Полный Гайд Для Новичков...",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\nСылки наших партнеров:\nMake.com https://www.make.com/en...",
+      "duration": 894.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/DD4TWofeRIY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD6Jq9j94qW99Ll3e5ouCzMgsH3eQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/DD4TWofeRIY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDKF-INYF_lT6z8agjzIOqPkvLRMA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/DD4TWofeRIY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDn9ktLqeCd1ifHcCjZ9Sa9GkLI1g",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/DD4TWofeRIY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_A4frY2Cszc6cTqnNWTSp-nUyyw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 13141,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "y_lac_sw6ZA",
+      "url": "https://www.youtube.com/watch?v=y_lac_sw6ZA",
+      "title": "Как Автоматизировать Телеграм Канал? Полный гайд…",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 978.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/y_lac_sw6ZA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC5pppU4w6Ov5shFDhkpXX8Q5UCBg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/y_lac_sw6ZA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPrQ9-7wptcoCgeeRk3YXw-sFS6g",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/y_lac_sw6ZA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSwkAge2Vmh7RgWO41KZ2WavQO5A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/y_lac_sw6ZA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAv4IDp3wk7h8IAu7Pc8yXysX6P4Q",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 3416,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "HIVETMpqXNo",
+      "url": "https://www.youtube.com/watch?v=HIVETMpqXNo",
+      "title": "БЕСПЛАТНЫЙ ТРАФИК из Pinterest на ПОЛНОМ АВТОПИЛОТЕ: Генерация пинов с помощью нейросетей и Make",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 IncubeHub - Наша Закрытая группа, шаблоны,...",
+      "duration": 1007.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/HIVETMpqXNo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCwZTQcsJW5oC82FuT1LGnwGaxP2A",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HIVETMpqXNo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBf9zrSBfRJzBqU7mogKn4s9ug0sg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HIVETMpqXNo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXrmp2xnNx-32AZI9fzWobDZZb9g",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HIVETMpqXNo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZ4M0cduREwG6qt5WeCrV2EUQiog",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 5728,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "k6K_vy8ifUY",
+      "url": "https://www.youtube.com/watch?v=k6K_vy8ifUY",
+      "title": "УБИЙЦА EXCEL🔥 Твои таблицы не будут прежними!",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 914.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/k6K_vy8ifUY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLABuz4MF0J9xP8Oj7y-2gLci-WYUA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k6K_vy8ifUY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDVgEFMpfOEwX_vwNppgY_OS06S3g",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k6K_vy8ifUY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3zXaeZ25Un4okzMrdTTPr-fuWLQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k6K_vy8ifUY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJNNLpCNA1h_wdoKOWh83ts07Wnw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 3004,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "MxnOzXJ8IBU",
+      "url": "https://www.youtube.com/watch?v=MxnOzXJ8IBU",
+      "title": "НЕЙРОСЕТЬ ПИШЕТ СОЧНЫЕ ПОСТЫ ЗА ТЕБЯ!",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 698.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/MxnOzXJ8IBU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCTA4AoXQ8ge3TYqggM12TTgzmHYA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MxnOzXJ8IBU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0TllAKsi625oyiV5pE73wRb83qQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MxnOzXJ8IBU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwxdM_7hq1O6hML9aZBFm2G5yuog",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MxnOzXJ8IBU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_yzDaHquWNOrMmwkKG72r3QV8Ag",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1348,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "3MNxzfUnle8",
+      "url": "https://www.youtube.com/watch?v=3MNxzfUnle8",
+      "title": "ЭЛЕМЕНТАРНЫЙ АВТОПОСТИНГ В TELEGRAM make.com",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 526.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/3MNxzfUnle8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD1sLTgkgk7zdZ0JF6lZ61BdQH_hg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3MNxzfUnle8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAg2HjfeZmhXZd95kGeKqDUV5w0MQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3MNxzfUnle8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXz18uhuC5dqsrgrMMjsGu05CEBw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3MNxzfUnle8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVsaFq6VFy-E1IzLi6f9hVEg8eJg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1552,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "hDoGU7D9Js8",
+      "url": "https://www.youtube.com/watch?v=hDoGU7D9Js8",
+      "title": "Как подключить RunwayML к Make.com: Полное Руководство по Автоматизации! 🚀",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 314.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/hDoGU7D9Js8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDw7MLYMkB079zVpiUVjghAUr5FHA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/hDoGU7D9Js8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB81Cq5s5B9Tx4_teC-qod3iZU7dQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/hDoGU7D9Js8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBq4p2NjsC4Gd8KuP8Krp95taHmg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/hDoGU7D9Js8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIb9JZxjnTH1MVpbYWQoZzF9Gxmw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 658,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "O2XaZysO_vg",
+      "url": "https://www.youtube.com/watch?v=O2XaZysO_vg",
+      "title": "LEONARDO AI В ТЕЛЕГРАМЕ, автоматизация make.com",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 521.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/O2XaZysO_vg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLABP3lnpTSybWmHNpz5WwwiXK-9xA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/O2XaZysO_vg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC7WCZX9zVsT6u_p0KigLQwvmpWOg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/O2XaZysO_vg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCArPyLcctGmofUy5AgJ1S6W_UDw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/O2XaZysO_vg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdeYHV6Ktw_2FzxW1SE4nUwnkeHQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 746,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "w5HS3a9QEpI",
+      "url": "https://www.youtube.com/watch?v=w5HS3a9QEpI",
+      "title": "АВТОПОСТИНГ В СОЦСЕТЯХ С ПОМОЩЬЮ ИИ: Как Автоматизировать Публикации 2 часть",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 420.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/w5HS3a9QEpI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC67e_s40On2vfePalUu2yMzbeGYA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/w5HS3a9QEpI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC10Zqo9Zla2bR_raKPJpOHOjrNpQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/w5HS3a9QEpI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC24wbnsJpYqPUCGu0qDgmqkiAPUQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/w5HS3a9QEpI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5Y6ZGgeeQvnhqI1pZw1W3n4FYnQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 939,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "lo_vGJSobPg",
+      "url": "https://www.youtube.com/watch?v=lo_vGJSobPg",
+      "title": "НЕЙРОСЕТЬ В ТГ БОТЕ СТРОИТ МНЕ МАРШРУТЫ",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 290.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/lo_vGJSobPg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCgnRMPsY2Xml4C_gCJwxwa_A1QnA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lo_vGJSobPg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCCQP8jkgxE90Qd7LbdMaBaVx7knA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lo_vGJSobPg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn24ccGD4kFcj1ghAbEgHucVGf7w",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lo_vGJSobPg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4Pm5-I6is_k1nr9c9vVbuJLLe7w",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 418,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "TjYzweC0sFw",
+      "url": "https://www.youtube.com/watch?v=TjYzweC0sFw",
+      "title": "ПРОСТЕЙШИЙ АВТОПОСТИНГ в Соцсетях: ИИ для автоматизации контента",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 437.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/TjYzweC0sFw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAO6asOyPisKWsCuZa_f9n3peFW_g",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TjYzweC0sFw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4qhvrvyheUa2CiW0LSxBnixGi8g",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TjYzweC0sFw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTFmnBYQ-oWEhVcdFMrhNhw6UY7g",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TjYzweC0sFw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPO-W4E63VDuCq11u31MUHuubpQw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 3374,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "vOyPop_mfQ0",
+      "url": "https://www.youtube.com/watch?v=vOyPop_mfQ0",
+      "title": "ГОЛОСОВОЙ ПЕРЕВОДЧИК В ТЕЛЕГРАМ автоматизация make.com",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 489.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/vOyPop_mfQ0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAObs3v6QYVulJi1DENmU39UvnRdQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vOyPop_mfQ0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBzFGoWMV2KSSnJMn3KZZq-VU1_Zg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vOyPop_mfQ0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7Q9QH6W-S-GMjWK_oXtrmVILRTQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vOyPop_mfQ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiRa6c953FPyAgqceebPyVN_5dxg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1510,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "7a4zmTlGlis",
+      "url": "https://www.youtube.com/watch?v=7a4zmTlGlis",
+      "title": "ЗАБУДЬ ПРО АВТОРСКОЕ ПРАВО С НЕЙРОСЕТЯМИ ии для генерации изображений по примеру",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 404.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/7a4zmTlGlis/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAOeQ2Blf2tHjrwbMrJul9bc3nTmA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7a4zmTlGlis/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBHZpC6NJy-OMsYxE-9TldYBTTStA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7a4zmTlGlis/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4gc_W9cdbBec5fdAleLYmQT_IvQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7a4zmTlGlis/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFRUKjq9nMNbV4ACZvv7N7y2s5Cg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 890,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "uHak0MGF0Hw",
+      "url": "https://www.youtube.com/watch?v=uHak0MGF0Hw",
+      "title": "АВТОПОСТИНГ В СОЦИАЛЬНЫЕ СЕТИ С ПОМОЩЬЮ ИИ",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 549.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/uHak0MGF0Hw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA7tEHS2cDW0Eb2IZ5wDLkcSm2WUQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uHak0MGF0Hw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhCaC4O-pPYaT8zULVYZ4_OQZZsQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uHak0MGF0Hw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ8ry7-2NohOXRszwqgQ-TyaA3mA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uHak0MGF0Hw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXLVhdUEgD9eiuhDeqXPmw115h_w",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 2261,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "-Gu-9aBx0FY",
+      "url": "https://www.youtube.com/watch?v=-Gu-9aBx0FY",
+      "title": "ЛУЧШАЯ ЗАМЕНА MIDJOURNEY В MAKE.COM автоматизация flux",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 597.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/-Gu-9aBx0FY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgRGhmSQaZx3z66LQ-SYvZYe9pug",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-Gu-9aBx0FY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC5_HqLYOCLjQOiourUSyzf5ogyNA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-Gu-9aBx0FY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8p4cfbmkLAkxLu4xHdUGUGsmGlg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-Gu-9aBx0FY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQNPSwgQxrqGpZK4mb3uG_RX_9_A",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 853,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "SQRCaaxXU9Y",
+      "url": "https://www.youtube.com/watch?v=SQRCaaxXU9Y",
+      "title": "ПЕРВЫЙ РАЗ ЗАШЕЛ В N8N И СРАЗУ СОБРАЛ БОТА!",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 446.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/SQRCaaxXU9Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAyYGr1FO4K3X0ukgQ7ox2aWKxJ-w",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SQRCaaxXU9Y/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB3mR8L4PIKZK8yOGXF-8d2SGgFAw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SQRCaaxXU9Y/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWhHwYNQi0Gh_-g4TLieTGrMrU8w",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SQRCaaxXU9Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW6_mv2JCMfXrNJG66L_2JnwwaOA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1097,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "vLg0-OTWFbo",
+      "url": "https://www.youtube.com/watch?v=vLg0-OTWFbo",
+      "title": "ТЕЛЕГРАМ БОТ ЗАМЕНЯЕТ ЛИЦА, НИКАКОГО КОДА автоматизация make.com, faceswap, leadtex, telegram",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 622.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/vLg0-OTWFbo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAMYiIAdRd1QSgCqXrJ4By1di_eGQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vLg0-OTWFbo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBs5LyzZbqDEMELehQ1KaO-6kJnwA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vLg0-OTWFbo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI1__c_B_pQhOhYyYGCqHVy-bw-g",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vLg0-OTWFbo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfVmZjjIlcpwSCBW8TjVxis1R2kQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 580,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "L4cTF1Czfc0",
+      "url": "https://www.youtube.com/watch?v=L4cTF1Czfc0",
+      "title": "ИИ РАССКАЗЫВАЕТ СКАЗКИ В ТЕЛЕГРАМ автоматизация make com, telegram, gpt",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 406.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/L4cTF1Czfc0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAaCVsnU4ssbSbhuTy6C5izoPYjhg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/L4cTF1Czfc0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAxjw0ezyL78hKBErlxSTSzivuGqQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/L4cTF1Czfc0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN_N1DnMlZDL80oNeZwsJSYSDW1Q",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/L4cTF1Czfc0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS54m2B0lSsqx-8Dvp8epCyh_05g",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 538,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "lt3B4NQQiJo",
+      "url": "https://www.youtube.com/watch?v=lt3B4NQQiJo",
+      "title": "ТЕЛЕГРАМ БЕСПЛАТНО УДАЛЯЕТ ФОН С ИЗОБРАЖЕНИЯ   Автоматизация make com, telegram, remove bg",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 255.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/lt3B4NQQiJo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBhrmyC0wf-5ac5l7tXc3XdFSLWwQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lt3B4NQQiJo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBOmRoxNOxGOp1dt28ntXC1MUP7fw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lt3B4NQQiJo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEsO9bnvMUoOJ_6Z2zzvnc1PqRRA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lt3B4NQQiJo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiyRzEsjMy78222uBY4dM2HdJNWw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 365,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "BSSEn1_cJyE",
+      "url": "https://www.youtube.com/watch?v=BSSEn1_cJyE",
+      "title": "ПАРСИМ ДАННЫЕ С ИНСТАГРАМА    Автоматизация парсинга данных с помощью make com, GPT 4o",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 459.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/BSSEn1_cJyE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCSS__JJeJR-t0ZDGGSlBiShBanJA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BSSEn1_cJyE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCWeBVLzzZ9aXeQHO1_oAGoqsIKzg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BSSEn1_cJyE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7fmRc-SJ4mMFsGH-OqKsUtE2lcw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BSSEn1_cJyE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzFjQeDCnWTMMEdqMJtkWsVM5_Gg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 963,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "a1RZe1v8miM",
+      "url": "https://www.youtube.com/watch?v=a1RZe1v8miM",
+      "title": "Я НАНЯЛ ИИ НА РОЛЬ СММЩИКА автопостинг в телеграм с помощью автоматизации и ИИ",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 1278.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/a1RZe1v8miM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLApbHS12JnJOkDoUA-6H2qckmws3Q",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/a1RZe1v8miM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDmty7vqxRML1S_-hHtMv7CWxYYQQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/a1RZe1v8miM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyvDptSGduPnIYWHMI_gf3vBgQvA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/a1RZe1v8miM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN1V9lJ5Mav8BoGGB51PLKTPmknQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 2330,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "zmwCsEgqybs",
+      "url": "https://www.youtube.com/watch?v=zmwCsEgqybs",
+      "title": "ELEVENLABS в MAKE COM Как подключить и какие есть функции  Автоматизация make com, elevenlabs, teleg",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 741.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/zmwCsEgqybs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAzZvIHrZf0BTQpiFjzMJHydVruVQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zmwCsEgqybs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA48TBo4EXdV1ERSZEwRKRG_2hfgQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zmwCsEgqybs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsgghpW22NxVzuQzmqez9WQEmskQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zmwCsEgqybs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATw9mNm-gbPR-4UQVTqJ7aIlQs_Q",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 960,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "UDLQ067E-KE",
+      "url": "https://www.youtube.com/watch?v=UDLQ067E-KE",
+      "title": "КАК ПАРСИТЬ ЛЮБЫЕ САЙТЫ С MAKE COM И GPT автоматизация make com, gpt, telegram, parsing",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 821.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/UDLQ067E-KE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBQVb9BD6qWwUbfQs8lWkFmazQ4qw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UDLQ067E-KE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATe-pwEomSoHKbwivDaapQaEH2ig",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UDLQ067E-KE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOKRqDptOz4RRsYrvhkVTdzRyqbg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UDLQ067E-KE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrzC5giz-0UVa5ktJqEJ46y0IQRQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 5472,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "RRMVeHOcUWY",
+      "url": "https://www.youtube.com/watch?v=RRMVeHOcUWY",
+      "title": "Midjourney в твоем личном ИИ ассистенте | AI AGENT в N8N с midjourney под капотом",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 2287.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/RRMVeHOcUWY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAqDKmILMEJNqAVENQNCemNs7iK3w",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RRMVeHOcUWY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7lCLOOordhiDe8b9Rae8MVrv3tA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RRMVeHOcUWY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNU7bsEIgBUL1XPVQVSnxKfD4_Bw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RRMVeHOcUWY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBm2zMYnnmPOZ8LBceELrcIND1-Q",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 692,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "5x-jD-4udsg",
+      "url": "https://www.youtube.com/watch?v=5x-jD-4udsg",
+      "title": "ИИ ВЕДЕТ МОЙ КАНАЛ В ТЕЛЕГРАМ автоматизация контента с помощью GPT и make com",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 486.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/5x-jD-4udsg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDyUKcuPzG95Jh4mQbXs_gI9P0ALw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5x-jD-4udsg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCAmyA8TgoPu-I09dxxC8Dcco6-PA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5x-jD-4udsg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVRSG_VwnT7NxjoXUZa8tBUXB5UA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5x-jD-4udsg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0vKZWnko6o8UQQKSrvdDhWQwYzg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 5452,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "kFTzrCmw990",
+      "url": "https://www.youtube.com/watch?v=kFTzrCmw990",
+      "title": "ПРОГНОЗ ПОГОДЫ В ТЕЛЕГРАМ автоматизация make com",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 661.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/kFTzrCmw990/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBZVwUec74P3vUMV_A4jx6b5G6_3w",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kFTzrCmw990/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDAiF-2Ye9DleG-SsxCWR6ChsfEVg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kFTzrCmw990/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCokr694mFCYGnWcplWBbsBx8CXQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kFTzrCmw990/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAILmW7V6l1obCU2sUteGgbMRzgoQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 385,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "_2VWGfxhYhU",
+      "url": "https://www.youtube.com/watch?v=_2VWGfxhYhU",
+      "title": "ПРЕЗЕНТАЦИИ ДЛЯ ПОТЕНЦИАЛЬНЫХ КЛИЕНТОВ ПРИ ПОМОЩИ GPT 4o, Google Slides, Make",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 426.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/_2VWGfxhYhU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBMoG3h5dRB8fvlgkzY1O7HpEYcCw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_2VWGfxhYhU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD3-QJl1WXf-Kp6zXxyIeZu_97uOQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_2VWGfxhYhU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6JIEzamw9XCN4dA4-FRMl00CwVw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_2VWGfxhYhU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5lxtBZC9qWPBgRle9wEbsUIqkng",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 407,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "4u73QMtFC1g",
+      "url": "https://www.youtube.com/watch?v=4u73QMtFC1g",
+      "title": "ROUTER MAKE COM И ФИЛЬТРАЦИЯ КЛЮЧЕВЫХ СЛОВ В ТЕЛЕГРАМ автоматизация telegram, make com, gpt",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 288.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/4u73QMtFC1g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBjWLxv42R-qSk13f0jYiCg1JrmgQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4u73QMtFC1g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDC3DphuPfy6rxETCRUXoFJRTeCVg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4u73QMtFC1g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6RFsBQjFIaKVQ4PkvTYBbb-PuOQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4u73QMtFC1g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqfdcvrzi7vV8Szyd_L5LJxjtiuw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 375,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "eOs39QOXJ_s",
+      "url": "https://www.youtube.com/watch?v=eOs39QOXJ_s",
+      "title": "ТЕЛЕГРАМ БОТ РЕШАЕТ ДОМАШКУ автоматизация make com, chatGPT, telegram",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 242.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/eOs39QOXJ_s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDOxFrOWVob7Y8vXDhIb61fBrTnoA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/eOs39QOXJ_s/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBlSuz_NUP8OFqngdUM2NCDQERPVw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/eOs39QOXJ_s/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBihf_fA3a3wV041ByozJdyylb9cQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/eOs39QOXJ_s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYiyZgE3cdoOFiM-AH8ia-YiC1rg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1378,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "914CnOXz0Tk",
+      "url": "https://www.youtube.com/watch?v=914CnOXz0Tk",
+      "title": "Автоматические ответы на комментарии YouTube с помощью ChatGPT   4o",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 367.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/914CnOXz0Tk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCVIoljMwwECxfRnU9jWKW35lFYNw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/914CnOXz0Tk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBhOaodNmvE8f4a_KSjVt2SVfcYKw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/914CnOXz0Tk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0d7qcJkNj6RU1q75qce0Kovj7Pw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/914CnOXz0Tk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAY0w8FVa976Kg2koc7RTFmamHCMQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 417,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "VUyar36RO0A",
+      "url": "https://www.youtube.com/watch?v=VUyar36RO0A",
+      "title": "БОТ РИСУЕТ АВАТАРКИ ЗА КОММЕНТАРИЙ   Автоответы на комменты, Midjourney рисует аватарку за коммент",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 869.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/VUyar36RO0A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJQir1qo2HafqMyF9USiuvWfjftg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VUyar36RO0A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBURRMmGuiltUk4PKT93Cj2J42qhw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VUyar36RO0A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq8yTvnwHF_UlpLEOg5_DtzBppzA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VUyar36RO0A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsTyZKnARvt1j8HckGZiw4UAZcPg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 233,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "4yAzY7o44lA",
+      "url": "https://www.youtube.com/watch?v=4yAzY7o44lA",
+      "title": "Midjourney в твоем Telegram! Автоматизация Make com",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 902.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/4yAzY7o44lA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA7vtnIrKSsdU7u_tfsmFOCSDQnUg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4yAzY7o44lA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCbifWq3Rox7ON7GLHnCl-lQGoaog",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4yAzY7o44lA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZXB05w7Q1cqs5yxEhdklSAHpv0w",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4yAzY7o44lA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTKmAkOYOvJ6NawGXhoqPLRkhFaQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 478,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "fu_3OLTGDpI",
+      "url": "https://www.youtube.com/watch?v=fu_3OLTGDpI",
+      "title": "Midjourney в твоем Telegram! Автоматизация Make com 2 ЧАСТЬ",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 1045.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/fu_3OLTGDpI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCzp2S8gTB4IQg0iYOxe7x0hrIcVQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fu_3OLTGDpI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC3HbPXX2VsEEqdSNVKyJeS67csiA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fu_3OLTGDpI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9m38za0lRijfBIrw_Ed3OyqNA5g",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fu_3OLTGDpI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtpLKGPmOA8gLy8Ebx5PulfHAxsQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 334,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "JQbXaHBOLmE",
+      "url": "https://www.youtube.com/watch?v=JQbXaHBOLmE",
+      "title": "GPT 4o создает контент план и заносит его в календарь NOTION полностью автоматически   make com",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 666.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/JQbXaHBOLmE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAdd4VHRpUn0PY8kLa1ZQqbTQu8Tw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JQbXaHBOLmE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJAAdU3DVXPecSwvoPelqNrrUWkg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JQbXaHBOLmE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBB1c2_vpSwGyGXdgHMp7iUhlb__A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JQbXaHBOLmE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD6qC411lF1rNBpAkwLAT81TBtyQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 358,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "XenIEeI5FT0",
+      "url": "https://www.youtube.com/watch?v=XenIEeI5FT0",
+      "title": "ОБЗОР НА MAKE COM платформа для автоматизаций телеграм, midjourney, GPT, StableDiffusion, make com",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 1779.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/XenIEeI5FT0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDb7UJ6jiqgoIHhpRhqVuUkhRv2Mg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XenIEeI5FT0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDlAVSQSGlsBCStz2os6p3DPjkJWQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XenIEeI5FT0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ6MKeZz8jXmnLXlmO0tK1sJNWog",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XenIEeI5FT0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdfsbnN6kXU-QusJ4yez5ubfY5yg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 6921,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "BhEtGw_ACis",
+      "url": "https://www.youtube.com/watch?v=BhEtGw_ACis",
+      "title": "ОБЗОР ОСНОВНЫХ ФУНКЦИЙ ТЕЛЕГРАМА MAKE COM",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 841.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/BhEtGw_ACis/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDnZM1irDpgHZ5x9H6rHn-1E-VfCw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BhEtGw_ACis/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDAheGEXr0bqVIyGjLfxGY06EiR2A",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BhEtGw_ACis/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo-B5dRuJsJxPN9an1hwYvMW2TXg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/BhEtGw_ACis/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBznB99fB3OEsZjRRjHqwEQ86tHOQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1683,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "TRrcaK4KtYE",
+      "url": "https://www.youtube.com/watch?v=TRrcaK4KtYE",
+      "title": "AI AGENT в твоем телеграмме с памятью и кастовыми функциями",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 1377.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/TRrcaK4KtYE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAMrT0TIL3XHHSa7mWxFmF6L-hoMg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TRrcaK4KtYE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDInPCEhxq3eXcoo6dCX0n9Ohoiqw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TRrcaK4KtYE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADcGY0gHf7VccocamDUp3_6Dxmeg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TRrcaK4KtYE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_QuP0lIV2teD0vJXRYU2eIGagIA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 873,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "GfPH89RDy0g",
+      "url": "https://www.youtube.com/watch?v=GfPH89RDy0g",
+      "title": "GPT GOOGLE ТАБЛИЦЫ автоматизация GPT, google sheets, telegram, make.com",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 1725.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/GfPH89RDy0g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAYwjfbcga_Xv9V610Fg-4a9DxW_A",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/GfPH89RDy0g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLApFYAMnd4mLf1vtyOPDrL05G_DTw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/GfPH89RDy0g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1w7JoXMr2H6W5WaOtVA5ACr3N_g",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/GfPH89RDy0g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVyhqt9N42KNxLfgB-THawPBEWuA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 3586,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "SYr9Eor73Bw",
+      "url": "https://www.youtube.com/watch?v=SYr9Eor73Bw",
+      "title": "НЕ УЧИ ЯЗЫКИ ПРОГРАММИРОВАНИЯ... пока не посмотришь это видео | руководство для начинающих make.com",
+      "description": "Задавайте вопросы в комментариях, и мы обязательно на них ответим!\n\n🔥 Наша Закрытая группа, шаблоны, трансл...",
+      "duration": 1520.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/SYr9Eor73Bw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAEKK46qjBDgdg4DcicrDNfV4KgHg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SYr9Eor73Bw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDj0zCc8pOcfbo4d96697qfodpqrQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SYr9Eor73Bw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7btpHgC1y_nW4vMc-0S6BrDIBSw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SYr9Eor73Bw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp0nsrRonCBSymkz62ae5ZMKReCQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1141,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    }
+  ],
+  "extractor_key": "YoutubeTab",
+  "extractor": "youtube:tab",
+  "webpage_url": "https://www.youtube.com/@INCUBEAI/videos",
+  "original_url": "https://www.youtube.com/@INCUBEAI/videos",
+  "webpage_url_basename": "videos",
+  "webpage_url_domain": "youtube.com",
+  "release_year": null,
+  "epoch": 1745405054
+}
