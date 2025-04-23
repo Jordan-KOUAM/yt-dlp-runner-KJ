@@ -8,11 +8,12 @@ on:
         required: true
 
 jobs:
-  scrape:
+  get_info:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -22,7 +23,7 @@ jobs:
     - name: Install yt-dlp
       run: pip install yt-dlp
 
-    - name: Prepare filename
+    - name: Prepare output filename
       id: prep
       run: |
         url="${{ github.event.inputs.video_url }}"
@@ -33,12 +34,16 @@ jobs:
         echo "filename=$filename" >> $GITHUB_ENV
         echo "filename=$filename" >> "$GITHUB_OUTPUT"
 
-    - name: Run yt-dlp and write JSON
+    - name: Run yt-dlp to fetch video metadata
       run: |
         url="${{ github.event.inputs.video_url }}"
-        yt-dlp --dump-json "$url" > "${{ env.filename }}"
 
-    - name: Commit JSON output
+        # Si besoin d'ajouter les cookies, créer un fichier cookies.txt et utiliser l'option --cookies
+        # Exemple : yt-dlp --cookies cookies.txt --dump-json "$url"
+        
+        yt-dlp --no-playlist --dump-single-json "$url" > "${{ env.filename }}"
+
+    - name: Commit result JSON
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
