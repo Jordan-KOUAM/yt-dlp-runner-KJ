@@ -27,13 +27,15 @@ jobs:
         url="${{ github.event.inputs.youtube_url }}"
         slug=$(echo "$url" | sed 's/[^a-zA-Z0-9]/_/g')
         timestamp=$(date +%s)
-        filename="output_${slug}_${timestamp}.json"
-        echo "filename=$filename" >> $GITHUB_OUTPUT
+        mkdir -p outputs
+        filename="outputs/output_${slug}_${timestamp}.json"
+        echo "filename=$filename" >> $GITHUB_ENV
+        echo "filename=$filename" >> "$GITHUB_OUTPUT"
 
     - name: Run yt-dlp
       run: |
         url="${{ github.event.inputs.youtube_url }}"
-        python main.py "$url" "${{ steps.prep.outputs.filename }}"
+        python main.py "$url" "${{ env.filename }}"
 
     - name: Commit output
       env:
@@ -41,6 +43,6 @@ jobs:
       run: |
         git config user.name github-actions
         git config user.email github-actions@github.com
-        git add "${{ steps.prep.outputs.filename }}"
-        git commit -m "Add output file: ${{ steps.prep.outputs.filename }}"
+        git add "${{ env.filename }}"
+        git commit -m "Add output file: ${{ env.filename }}"
         git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
