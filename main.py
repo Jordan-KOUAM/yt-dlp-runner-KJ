@@ -1,9 +1,13 @@
 import sys
-import subprocess
 import json
+from yt_dlp import YoutubeDL
 
 url = sys.argv[1]
-result = subprocess.run(["yt-dlp", "--flat-playlist", "-J", url], capture_output=True, text=True)
+output_filename = sys.argv[2] if len(sys.argv) > 2 else "output.json"
 
-with open("output.json", "w", encoding="utf-8") as f:
-    json.dump(json.loads(result.stdout), f, indent=2)
+with YoutubeDL({'dump_single_json': True, 'extract_flat': True}) as ydl:
+    result = ydl.extract_info(url, download=False)
+
+with open(output_filename, 'w', encoding='utf-8') as f:
+    json.dump(result, f, ensure_ascii=False, indent=2)
+
