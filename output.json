@@ -142,7 +142,7 @@
       "timestamp": null,
       "release_timestamp": null,
       "availability": null,
-      "view_count": 137421,
+      "view_count": 137454,
       "live_status": null,
       "channel_is_verified": null,
       "__x_forwarded_for_ip": null
@@ -186,7 +186,7 @@
       "timestamp": null,
       "release_timestamp": null,
       "availability": null,
-      "view_count": 378260,
+      "view_count": 378261,
       "live_status": null,
       "channel_is_verified": null,
       "__x_forwarded_for_ip": null
@@ -362,7 +362,7 @@
       "timestamp": null,
       "release_timestamp": null,
       "availability": null,
-      "view_count": 16565,
+      "view_count": 16564,
       "live_status": null,
       "channel_is_verified": null,
       "__x_forwarded_for_ip": null
@@ -538,7 +538,7 @@
       "timestamp": null,
       "release_timestamp": null,
       "availability": null,
-      "view_count": 1041691,
+      "view_count": 1041692,
       "live_status": null,
       "channel_is_verified": null,
       "__x_forwarded_for_ip": null
@@ -670,7 +670,7 @@
       "timestamp": null,
       "release_timestamp": null,
       "availability": null,
-      "view_count": 395986,
+      "view_count": 395985,
       "live_status": null,
       "channel_is_verified": null,
       "__x_forwarded_for_ip": null
@@ -714,7 +714,7 @@
       "timestamp": null,
       "release_timestamp": null,
       "availability": null,
-      "view_count": 126353,
+      "view_count": 126352,
       "live_status": null,
       "channel_is_verified": null,
       "__x_forwarded_for_ip": null
@@ -758,7 +758,7 @@
       "timestamp": null,
       "release_timestamp": null,
       "availability": null,
-      "view_count": 42148,
+      "view_count": 42147,
       "live_status": null,
       "channel_is_verified": null,
       "__x_forwarded_for_ip": null
@@ -846,7 +846,7 @@
       "timestamp": null,
       "release_timestamp": null,
       "availability": null,
-      "view_count": 76748,
+      "view_count": 76751,
       "live_status": null,
       "channel_is_verified": null,
       "__x_forwarded_for_ip": null
@@ -1418,7 +1418,7 @@
       "timestamp": null,
       "release_timestamp": null,
       "availability": null,
-      "view_count": 105768,
+      "view_count": 105769,
       "live_status": null,
       "channel_is_verified": null,
       "__x_forwarded_for_ip": null
@@ -1550,7 +1550,7 @@
       "timestamp": null,
       "release_timestamp": null,
       "availability": null,
-      "view_count": 4047,
+      "view_count": 4046,
       "live_status": null,
       "channel_is_verified": null,
       "__x_forwarded_for_ip": null
@@ -2355,7 +2355,7 @@
   "webpage_url_basename": "videos",
   "webpage_url_domain": "youtube.com",
   "release_year": null,
-  "epoch": 1745395701,
+  "epoch": 1745395853,
   "__files_to_move": {},
   "_version": {
     "version": "2025.03.31",
