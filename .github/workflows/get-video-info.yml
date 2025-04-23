@@ -23,9 +23,22 @@ jobs:
     - name: Install yt-dlp
       run: pip install yt-dlp
 
-    - name: Decode base64 cookie and create cookies.txt
+    - name: Recreate base64 file from secrets
       run: |
         mkdir -p .private
+        echo "${{ secrets.COOKIES_PART_01 }}" > .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_02 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_03 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_04 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_05 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_06 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_07 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_08 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_09 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_10 }}" >> .private/cookie.txt.base64
+
+    - name: Decode base64 into cookies.txt
+      run: |
         base64 -d .private/cookie.txt.base64 > cookies.txt
 
     - name: Prepare output filename
