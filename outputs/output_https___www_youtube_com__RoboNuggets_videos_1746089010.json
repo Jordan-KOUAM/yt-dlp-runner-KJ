@@ -1,0 +1,1540 @@
+{
+  "id": "UCgscS8mBsQZ5sFRkJIFWD7Q",
+  "channel": "RoboNuggets",
+  "channel_id": "UCgscS8mBsQZ5sFRkJIFWD7Q",
+  "title": "RoboNuggets - Videos",
+  "availability": null,
+  "channel_follower_count": 28500,
+  "description": "Hi! I'm J 👋🏻 - and the mission is to make AI easy to learn AND earn from\n\nJoin the RoboNuggets community and get access to...\n🥚 Step-by-step lessons to create AI agents that do your work for you\n🥚 Ready-to-load automation blueprints that you can upload and set up instantly\n🥚 A network of like-minded people as passionate on AI as you\n",
+  "tags": [
+    "AI",
+    "artificial intelligence",
+    "n8n",
+    "automation",
+    "workflow automation",
+    "AI tools",
+    "ChatGPT",
+    "OpenAI",
+    "make.com",
+    "AI automation",
+    "AI workflow",
+    "AI integration",
+    "No-code automation",
+    "low-code tools",
+    "AI bots",
+    "OpenAI API",
+    "AI scripting",
+    "automation tutorials",
+    "tech automation",
+    "GPT-4",
+    "AI chatbots",
+    "prompt engineering",
+    "AI business tools",
+    "AI software",
+    "AI productivity",
+    "AI workflows",
+    "AI scripting",
+    "AI content creation",
+    "AI trends",
+    "claude",
+    "deepseek",
+    "zapier",
+    "youtube automation",
+    "ai agents",
+    "perplexity",
+    "midjourney"
+  ],
+  "thumbnails": [
+    {
+      "url": "https://yt3.googleusercontent.com/xQy0j-5_EXhMcc8w7CMGUvyb2g6xSpJZZOnBfkN3R5nTIYAqJUuvhQAe2TU18tmOCYqxyQvj=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 175,
+      "width": 1060,
+      "preference": -10,
+      "id": "0",
+      "resolution": "1060x175"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/xQy0j-5_EXhMcc8w7CMGUvyb2g6xSpJZZOnBfkN3R5nTIYAqJUuvhQAe2TU18tmOCYqxyQvj=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 188,
+      "width": 1138,
+      "preference": -10,
+      "id": "1",
+      "resolution": "1138x188"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/xQy0j-5_EXhMcc8w7CMGUvyb2g6xSpJZZOnBfkN3R5nTIYAqJUuvhQAe2TU18tmOCYqxyQvj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 283,
+      "width": 1707,
+      "preference": -10,
+      "id": "2",
+      "resolution": "1707x283"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/xQy0j-5_EXhMcc8w7CMGUvyb2g6xSpJZZOnBfkN3R5nTIYAqJUuvhQAe2TU18tmOCYqxyQvj=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 351,
+      "width": 2120,
+      "preference": -10,
+      "id": "3",
+      "resolution": "2120x351"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/xQy0j-5_EXhMcc8w7CMGUvyb2g6xSpJZZOnBfkN3R5nTIYAqJUuvhQAe2TU18tmOCYqxyQvj=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 377,
+      "width": 2276,
+      "preference": -10,
+      "id": "4",
+      "resolution": "2276x377"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/xQy0j-5_EXhMcc8w7CMGUvyb2g6xSpJZZOnBfkN3R5nTIYAqJUuvhQAe2TU18tmOCYqxyQvj=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 424,
+      "width": 2560,
+      "preference": -10,
+      "id": "5",
+      "resolution": "2560x424"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/xQy0j-5_EXhMcc8w7CMGUvyb2g6xSpJZZOnBfkN3R5nTIYAqJUuvhQAe2TU18tmOCYqxyQvj=s0",
+      "id": "banner_uncropped",
+      "preference": -5
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/UsmAvNpO4C92_LiRJ5IhnFbxZbT2BumOl703JSNQFwTmjaOIa3-6qFDY5_8jxkgQ_EK8N4nYng=s900-c-k-c0x00ffffff-no-rj",
+      "height": 900,
+      "width": 900,
+      "id": "7",
+      "resolution": "900x900"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/UsmAvNpO4C92_LiRJ5IhnFbxZbT2BumOl703JSNQFwTmjaOIa3-6qFDY5_8jxkgQ_EK8N4nYng=s0",
+      "id": "avatar_uncropped",
+      "preference": 1
+    }
+  ],
+  "uploader_id": "@RoboNuggets",
+  "uploader_url": "https://www.youtube.com/@RoboNuggets",
+  "modified_date": null,
+  "view_count": null,
+  "playlist_count": 32,
+  "uploader": "RoboNuggets",
+  "channel_url": "https://www.youtube.com/channel/UCgscS8mBsQZ5sFRkJIFWD7Q",
+  "_type": "playlist",
+  "entries": [
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "Yvtg6PBlMwU",
+      "url": "https://www.youtube.com/watch?v=Yvtg6PBlMwU",
+      "title": "This AI System Posts Infographics to Instagram, Hourly! (OpenAI Image API + n8n NO CODE tutorial 🍳)",
+      "description": "𝗔 𝗺𝗼𝗻𝘁𝗵 𝗮𝗴𝗼 OpenAI released their 4o image model - and the world saw an influx of Ghiblified images and Toy Action Figure creations ✨\n𝗔 𝘄𝗲𝗲𝗸 𝗮𝗴𝗼...",
+      "duration": 372.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i9.ytimg.com/vi/Yvtg6PBlMwU/hqdefault_custom_2.jpg?sqp=CODmzMAG-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD01nh_jTWbmSSmYIs7Uzt2CiaFWQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i9.ytimg.com/vi/Yvtg6PBlMwU/hqdefault_custom_2.jpg?sqp=CODmzMAG-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDl9Y9Nt0wqoXPJP-kwr68nmxmn5Q",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i9.ytimg.com/vi/Yvtg6PBlMwU/hqdefault_custom_2.jpg?sqp=CODmzMAG-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTqUJKMZgLWDxpEnQbS-IbLPSU9Q",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i9.ytimg.com/vi/Yvtg6PBlMwU/hqdefault_custom_2.jpg?sqp=CODmzMAG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCl-Zfqj-UCQER5dFRdiQXj3TQ4jw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 4273,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "ivty6t0lUkQ",
+      "url": "https://www.youtube.com/watch?v=ivty6t0lUkQ",
+      "title": "This AI System Creates Longform YouTube Videos Hourly (n8n NO CODE automation tutorial 🥚)",
+      "description": "This tutorial teaches you how to use AI to create 𝗹𝗼𝗻𝗴-𝗳𝗼𝗿𝗺 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝘃𝗶𝗱𝗲𝗼𝘀 𝗼𝗻 𝗮𝘂𝘁𝗼𝗽𝗶𝗹𝗼𝘁. It handles...",
+      "duration": 2150.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ivty6t0lUkQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCLaDauCm7W5o7RAVralP2_4Wi2RQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ivty6t0lUkQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLChVRCdHU8FTkWvEyYoluVsUO1AhA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ivty6t0lUkQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBur6DeXGn7boQf1Zw2KCXjjKZ6ag",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ivty6t0lUkQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZmhVyK0UqUS7hIwTVITYQfh20Vg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 45279,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "yvBwshJNPIs",
+      "url": "https://www.youtube.com/watch?v=yvBwshJNPIs",
+      "title": "How to Make Money with MCP: AI's Next Frontier (n8n NO-CODE tutorial 🥚)",
+      "description": "This tutorial explains MCP in a way that anyone can understand, and goes through some of the ways by which you can monetize this space in the coming weeks to months as the ecosystem matures...",
+      "duration": 2550.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/yvBwshJNPIs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDrDEE4XcdlJU_UtZhDKnWGFKBnhw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yvBwshJNPIs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBFRGVqINRmZsskxAfMQot0LcmcMg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yvBwshJNPIs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBttICBf9jSyx0fY7mWhMHDDFKgQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yvBwshJNPIs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPotPXX4gN1cGtEoB3ZxSDdY03Ng",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 16270,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "RARukM19zBY",
+      "url": "https://www.youtube.com/watch?v=RARukM19zBY",
+      "title": "This AI System generates $999/mo RAG AI Agents in seconds (n8n NO CODE tutorial 🥚)",
+      "description": "Learn how to create an AI Agent Auto-builder that you can use to take advantage of one of the biggest opportunities in AI today 😊\n\n🍳 Ready-to-load blueprint templates and resources are...",
+      "duration": 2158.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/RARukM19zBY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAnGDj-Y5wnrkykVGsBVVgoHzR5GA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RARukM19zBY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjEIPHwCb-uU-uC__WtNwHNFHStw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RARukM19zBY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo-MzvpJiPtF9EmE-kumz3tqMzgQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RARukM19zBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAY046KAd84pce11cC2ANXYCYY7bg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 9615,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "MNYx_0a2XqI",
+      "url": "https://www.youtube.com/watch?v=MNYx_0a2XqI",
+      "title": "The ULTIMATE Agent to Auto-Publish Content Hourly - 9 Social Platforms in 1! (n8n NO-CODE tutorial🥚)",
+      "description": "In this lesson, you'll learn how to set up the best publishing agent available right now - as it seamlessly integrates with not 2, not 3, but 9 Social Media Platforms - all in one system 😉...",
+      "duration": 1856.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/MNYx_0a2XqI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCRNbXRpEbpeOMXJfrCslLvRBDvTw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MNYx_0a2XqI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBmzymYD3oHF1KkxuDApIp7xIKUfw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MNYx_0a2XqI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNWNDzncZilwyd43kfV3MEOeRAtQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MNYx_0a2XqI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXk_fwxCbqQpcp4zfAbOzN6sd6fw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 58964,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "OTKtKkFax30",
+      "url": "https://www.youtube.com/watch?v=OTKtKkFax30",
+      "title": "This AI System Creates POV Faceless Videos Hourly - 100k Subs on AutoPilot! (n8n NO-CODE tutorial🥚)",
+      "description": "In this lesson, you'll set up an AI agent system that creates AND posts faceless POV videos—all on autopilot. These videos are blowing up on social media, getting millions of views. Now it's...",
+      "duration": 2562.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/OTKtKkFax30/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBc3B1xzx_cMDIb_SaGht16bg5wRA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OTKtKkFax30/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAnxCOS5MfGUSfmPF9JN-aKk8su0w",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OTKtKkFax30/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaTYkzEL3HX-_yyQ-Z6nstSXse5Q",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OTKtKkFax30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANyMIsYiQlw6BPzvN-of_jEuiD1A",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 277782,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "OxlAw5uoD1s",
+      "url": "https://www.youtube.com/watch?v=OxlAw5uoD1s",
+      "title": "This AI System Curates the BEST YouTube Video Ideas, Daily! (n8n NO-CODE tutorial 🥚)",
+      "description": "In this lesson, you'll learn how to set up an n8n automation workflow that finds the top-performing YouTube videos in your niche—completely on autopilot. By the end, you'll have a smart system...",
+      "duration": 1488.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/OxlAw5uoD1s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDnowSiYchRxGfT6jrzdJSil_WZfQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OxlAw5uoD1s/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVE_CDTC1e9EU-pWhDxAgf9xD9Bw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OxlAw5uoD1s/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBecS8nLVPVd6NSjA4lNxfjOQ_cMA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/OxlAw5uoD1s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsQuSwKI85D2RYDbih15fpvSPWuw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 6411,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "LfJe_Whgjhc",
+      "url": "https://www.youtube.com/watch?v=LfJe_Whgjhc",
+      "title": "I built Samantha from “Her” with AI: Here’s How (n8n no-code tutorial 🥚)",
+      "description": "This lesson covers the essential principles of building AI agents with n8n, making the process enjoyable by recreating Samantha from \"Her\" as your personal assistant! Take the time to learn...",
+      "duration": 2424.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/LfJe_Whgjhc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAwaORymOAnlVRMIDCNoxGII15QGw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LfJe_Whgjhc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC2vI-Ao7Rco-LYTUYHuEUPBmbhwA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LfJe_Whgjhc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt2AY8UX0J_4vnbE3MPHN0kxhwIw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LfJe_Whgjhc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJsH-dBoFdjp1aM--tv3RQdoXCEw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 4647,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "sHPV_eIPHTw",
+      "url": "https://www.youtube.com/watch?v=sHPV_eIPHTw",
+      "title": "Conversations AI // The Easiest Chat Agent Setup to Sell to Businesses (+GHL Toolkit included 🏆)",
+      "description": "Learn how to set up AI Conversation Agents in this quick but super important lesson - all using GoHighLevel's effortless system that lets you implement this for businesses in the easiest way;...",
+      "duration": 784.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/sHPV_eIPHTw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLARKoxDkYKKzdj_Z8uc5fxEFIUQsw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sHPV_eIPHTw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCMeW57NmGTkuFAcjPn_MdnUeQILQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sHPV_eIPHTw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqQgHruWVY5CecPqbcCs1P_WgOAg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sHPV_eIPHTw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRAEZxjuCnz5VKpNlmwj_hNP5Oew",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1286,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "3kVL5zbTQbs",
+      "url": "https://www.youtube.com/watch?v=3kVL5zbTQbs",
+      "title": "Reviews AI // How People Make $580 MRR Automating Reviews for Businesses (+GHL Toolkit included 🏆)",
+      "description": "Learn how to set up AI Review Agents in this short but highly valuable tutorial, using GoHighLevel's super easy system that allows you to implement this for business clients ASAP - helping...",
+      "duration": 763.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/3kVL5zbTQbs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDuzLiLDUACL6FScOLaOVU2I6T_kA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3kVL5zbTQbs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDBmMFqPj3OcQbYVwNWpx2WHAHKYw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3kVL5zbTQbs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAyLjZeyZYQzaYnEeuf8Am68cFIw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/3kVL5zbTQbs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5bAZLy3iYvavUyTvD5fyh003B2Q",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1489,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "8wkZfEvvpyY",
+      "url": "https://www.youtube.com/watch?v=8wkZfEvvpyY",
+      "title": "The AI Gold Rush Guide for 2025: Hit $10k MRR Fast with 100 AI Agents! (+ GHL ToolKit included 🏆)",
+      "description": "in this lesson, you’ll learn the fastest way to set up AI Voice Agents, along with all the tools and templates you need to offer and implement this for businesses ASAP - letting you build...",
+      "duration": 1740.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/8wkZfEvvpyY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBqBxjhqara0uCskfebzKF0THpp5g",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/8wkZfEvvpyY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCbLdJcP9Ro-_bCMDlzBayr2tlmcw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/8wkZfEvvpyY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhtREHcOEHXYw4p6SbL-UDnS-lOg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/8wkZfEvvpyY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHLB2EKAsx2dFv3laavMN15d4SFA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 2894,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "LG_ISwAWgWg",
+      "url": "https://www.youtube.com/watch?v=LG_ISwAWgWg",
+      "title": "The Canva Reels Creator Toolkit (100% AI-automated!)",
+      "description": "This AI toolkit uses the brand new Canva module at Make to fully automate the posting of 100 unique reels & shorts to Instagram & YouTube\n\n🥚 Ready-to-load blueprint templates are available...",
+      "duration": 699.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/LG_ISwAWgWg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCrBDIhIHcRO6h3M7KoMKVVDIeZvg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LG_ISwAWgWg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAxkfjZpW_RELIhzxUVI7UJHtIhfA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LG_ISwAWgWg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMBbH5xtyj7Y0g0VJlF-SDqjzCZA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LG_ISwAWgWg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAw2bcLRrArHP5Ty9dj7hrXIz8RaA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 2411,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "RlezeASaBEc",
+      "url": "https://www.youtube.com/watch?v=RlezeASaBEc",
+      "title": "Copy this: Automated Lofi Channel gets 2.1M views through this AI Agent System! (Music Creator V2.0)",
+      "description": "Learn how to launch your own Lofi YT channel in seconds using AI Automation - with ChatGPT, Suno to generate the music, and Make to orchestrate the automation\n\n🥚 Ready-to-load blueprint...",
+      "duration": 1552.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/RlezeASaBEc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAkxK_pgsZZhMFId_UyMJ_7RN7IQw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RlezeASaBEc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA_8jYWcVZrHmyvkwIuCKj2Bcp73A",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RlezeASaBEc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPsJJ2B9AwjIId3n5EzZfxLP-dBA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/RlezeASaBEc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH4AkCJTE2O5zpl9nSkXEtoOw9AA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 2835,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "7y-H_HITUWk",
+      "url": "https://www.youtube.com/watch?v=7y-H_HITUWk",
+      "title": "Zero-effort virality: This AI System creates 365 Faceless Shorts in 24 minutes! (100% Automated)",
+      "description": "This toolkit lets you set up fully-automated AI Agents that create AND post Faceless Shorts autonomously, so that you can grow your Tiktok, YouTube, or Instagram while you sleep!\n\n🥚 Ready-to-loa...",
+      "duration": 1442.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/7y-H_HITUWk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDifUPoVj-4EaxjakTfD8C6YuVJeg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7y-H_HITUWk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_LamrA8BuNbZ8BguNlPgmSNKxmA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7y-H_HITUWk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8a_gV-0-aQtDHPU9RTU97J66whg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7y-H_HITUWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNxW8epfRzbkZXsuQ59kiWj9oVnw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 2629,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "VLy_vGzkiQk",
+      "url": "https://www.youtube.com/watch?v=VLy_vGzkiQk",
+      "title": "The FACELESS Video AI Agent - build your social media empire while you live your life 😉 [full-auto]",
+      "description": "This lesson will teach you how to set up an AI automation that handles the Ideation, Production, AND Publishing of viral-worthy videos - helping you build your social media empire while you...",
+      "duration": 1982.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/VLy_vGzkiQk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAFhX-SAE_A2mDosuxY-JBO5UdbwA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VLy_vGzkiQk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDG9qCy3Mz1YwnMdFGTl2GPPuaukg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VLy_vGzkiQk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcvymFJ91qhk_UiKQ-MRmn2RfLHA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VLy_vGzkiQk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjcQ2txmVgiEtcBoSbUWKGLyZDKQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 3374,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "Y5ztamh_410",
+      "url": "https://www.youtube.com/watch?v=Y5ztamh_410",
+      "title": "how to // 🥚 Sell your voice with AI and earn $250/wk of true passive income | ElevenLabs tutorial!",
+      "description": "This lesson teaches you how to earn passive income by cloning your voice via ElevenLabs\n\n---\n🥚 Resources and prompts available at Skool: https://www.skool.com/robonuggets \n🥚 Elevenlabs...",
+      "duration": 502.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Y5ztamh_410/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBF7pPXQjcQ4GXbylvPMvIBz0QNGw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Y5ztamh_410/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAFwLkhfvWMwyxHrJSYvRbSRhdctg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Y5ztamh_410/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm4ouMYrJznMZWjruqPkCky1cr8g",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Y5ztamh_410/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQuTe2BqCp1LIsmW6ZqQuSN_dWrQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1064,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "hlb6XEFa5IE",
+      "url": "https://www.youtube.com/watch?v=hlb6XEFa5IE",
+      "title": "How to: AI Toolkit to give 1000s of Leads in Seconds",
+      "description": "This lesson teaches you how to get 1,000s of leads in your niche using ChatGPT, and how to automate reaching out to them via Make.com\n\n---\n🥚 Ready-to-load blueprint templates are available...",
+      "duration": 822.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/hlb6XEFa5IE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD7PUbxwNVcTcSvfxlNL0UqJKhJCA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/hlb6XEFa5IE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCVV084DK77oY-dvJzvCJSkLU2RSQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/hlb6XEFa5IE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRg2YF-uL7ihQbI5eYy5k3ECjUbg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/hlb6XEFa5IE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxpytTYRB6XXPXyudJU7eQY7KKtg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 676,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "qAhdt91WxJ0",
+      "url": "https://www.youtube.com/watch?v=qAhdt91WxJ0",
+      "title": "(a). how to launch a Lo-Fi YT Channel in seconds with AI",
+      "description": "Learn how to launch your own Lofi YT channel in seconds using AI Automation - with ChatGPT, Suno, and Make\n\n🥚 Ready-to-load blueprint templates are available at Skool: https://www.skool.com/robo...",
+      "duration": 1060.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/qAhdt91WxJ0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBIPWReJhCY5D-djFTjH8CO8DKZug",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/qAhdt91WxJ0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCTUg5P0bXoF6TQ8vKUVo6O-HTcGg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/qAhdt91WxJ0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9yaj8vxQxr5WrbkugcNmG2Q0tWg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/qAhdt91WxJ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGyPGgYZ3LtS61jZ4y5BGteHj-oQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 2560,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "JDDFiJ9hnR0",
+      "url": "https://www.youtube.com/watch?v=JDDFiJ9hnR0",
+      "title": "This 277k-follower AI Agent creates AND posts Tiktoks daily (ChatGPT + Canva + Make + Ayrshare)",
+      "description": "This AI agent automation creates AND posts Tiktok videos for you automatically - through the help of ChatGPT, Canva, Make, & Ayrshare!\n\n---\n🥚 Ready-to-load blueprint templates are available...",
+      "duration": 1198.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/JDDFiJ9hnR0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCuc--Z4cglT35BvgLVRIMSE_xLJQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JDDFiJ9hnR0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAd-hyYwSm5VS5ubBNxFZbeprRIHg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JDDFiJ9hnR0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDV4eL74NkIsRC78VIinnlgVhAsaQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JDDFiJ9hnR0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiSgKIeszTnESczHbWK3EzId5uew",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1494,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "0_JQxS1xnp8",
+      "url": "https://www.youtube.com/watch?v=0_JQxS1xnp8",
+      "title": "Automate Customer Support with AI! (Tutorial for AI Agent Email Responder)",
+      "description": "This lesson teaches you how to set up an AI Agent that will respond to emails for you, using your existing knowledge articles or website info!\n\n---\n🥚 Ready-to-load blueprint templates are...",
+      "duration": 1128.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/0_JQxS1xnp8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLByfAva2okot7go9l7vwJluvs1m9Q",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0_JQxS1xnp8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLClcodAtxxFjvSg9jfThZmTKSt2bA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0_JQxS1xnp8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkZUtQFPjRxyDDpkR74whdZSC8qw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0_JQxS1xnp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2QJEhF9WoES4akddeMCSIJit_Sg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 254,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "U-GLJchdAkc",
+      "url": "https://www.youtube.com/watch?v=U-GLJchdAkc",
+      "title": "This AI Faceless YT System gets 4.9M Views (AI Automated!)",
+      "description": "This AI-assisted workflow will let you launch your own faceless YouTube channel focusing on ambient music videos - completely original and monetizable\n\n---\n🥚 Ready-to-load blueprint templates...",
+      "duration": 838.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/U-GLJchdAkc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCkgAwjqfdSLZvMkcn3dkUdvsQPqA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/U-GLJchdAkc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDzONsPkWrj4mxVVMbng1-SpGXhuQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/U-GLJchdAkc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByZ3NkqFg5PosQCImvXVUPGyyBJQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/U-GLJchdAkc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUwdx73Dma0wFnMrunraXHZmngUg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1355,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "yEv6c9-ETOg",
+      "url": "https://www.youtube.com/watch?v=yEv6c9-ETOg",
+      "title": "This AI Agent will Transform your Blog to Social Content (100% Automated)",
+      "description": "This automation will take all the content you already have available in your blog, and automatically repurpose them to all the social media channels via AI.\n\n---\n🥚 Ready-to-load blueprint...",
+      "duration": 867.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/yEv6c9-ETOg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCAAA3nEcD02lssFtPV-eLOHh-Jw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yEv6c9-ETOg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD6IPUP12N-yF_UbrXJCEEKjWkvIA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yEv6c9-ETOg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4yXna0lNYkVw1ktdn8hisHD48Gw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/yEv6c9-ETOg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw-ec3MGylh27ynI0HXzTZLAAXxg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 255,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "2KHyJwbNpwU",
+      "url": "https://www.youtube.com/watch?v=2KHyJwbNpwU",
+      "title": "This AI Twitter System is growing to 100k followers on its own - here’s how to set it up for free",
+      "description": "In this tutorial, I'll show you how to create an AI automation system that will create daily posts for your Facebook, Instagram, X (or Twitter), and LinkedIn accounts without any human intervention...",
+      "duration": 530.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/2KHyJwbNpwU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCTPT9rKX2YcOr5pkhjckXN-MLzlw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/2KHyJwbNpwU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCn_b5QQcNeF-I3Ewjr1MPwI5H4Qw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/2KHyJwbNpwU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjfcgD89sqGoRHe8cipHB9EeJhaw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/2KHyJwbNpwU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbuxILL6Y1WgPW228T8OV2vNPSKw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 516,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "k_VZ0p9uhZo",
+      "url": "https://www.youtube.com/watch?v=k_VZ0p9uhZo",
+      "title": "This Automation will Turbocharge your IG Reels & YT Shorts Accounts in Seconds",
+      "description": "This automation will launch your Instagram Reels & YouTube Shorts account in seconds by re-sharing your content from Tiktok automatically\n\n\n🥚 Ready-to-load blueprint templates are available...",
+      "duration": 915.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/k_VZ0p9uhZo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCfPiciHIxM2mMHVVN7zqk3cjnWog",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k_VZ0p9uhZo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCeUu5pljO6IAxvxT2U_1_UJ63kHw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k_VZ0p9uhZo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxhhw_BZEb36dijxq5yA1UGHu4kg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k_VZ0p9uhZo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCukU0qUsu92OOSwrysBAjte2t8TA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 563,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "GGif3ofiSWw",
+      "url": "https://www.youtube.com/watch?v=GGif3ofiSWw",
+      "title": "This AI Agent System will Launch your Spotify Podcast in Seconds",
+      "description": "This lesson will give you the tools to create podcast episodes in a niche topic of your choice using make.com, chatgpt, and spotify podcasts. Enjoy! 🎉\n\n---\n🥚 Ready-to-load blueprint templates...",
+      "duration": 890.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/GGif3ofiSWw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAPkB0VFJdHDwdJXCqJ0KSm-pAfgQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/GGif3ofiSWw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAHm8bnwP3YAkRyFzm_bZmLdsJP7A",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/GGif3ofiSWw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAuvznB7cCg9h-U1N1g2sOqoc9EQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/GGif3ofiSWw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4JJQ6upwY_QTCPtJymkVTYQyWhA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 398,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "y03Yi4z1y10",
+      "url": "https://www.youtube.com/watch?v=y03Yi4z1y10",
+      "title": "I used AI to automate my client's Instagram for 365 days (and how you can do it too in 15mins)",
+      "description": "In this tutorial, I'll show you how to create an AI automation system that will create daily videos for YouTube Shorts and for Instagram Reels - all autonomously!\n\n🥚 Resources and prompts...",
+      "duration": 929.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/y03Yi4z1y10/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB-xgnvdjpWIR8dxAJcoG7u2a0pJA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/y03Yi4z1y10/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLHUCkQn5k8e8LA9W0abpRWC4atA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/y03Yi4z1y10/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA55J2Rb_BsDqhMmNLnKei6RuOnlQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/y03Yi4z1y10/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0oULE70VyQGDQ5oyL6Hs-fQrl5A",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 4190,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "7KrEY6zaK10",
+      "url": "https://www.youtube.com/watch?v=7KrEY6zaK10",
+      "title": "This New AI System Creates & Schedules 100 Youtube Shorts in Minutes (100% Automated!)",
+      "description": "In this tutorial, I'll show you how to create an AI automation system that will create daily videos for YouTube Shorts and for Instagram Reels - all autonomously!\n\n---\n🥚 Resources and prompts...",
+      "duration": 937.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/7KrEY6zaK10/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD-jkJ6HzgFo7F2TEhHgXK0358vAQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7KrEY6zaK10/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAs4pCiGfdbO1j8-_iqSD8OT-u_5Q",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7KrEY6zaK10/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT-CjbuYsWPJmfgN9Hybarf38Zbg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7KrEY6zaK10/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXFhGzBhVEbgIVtOmHg9qBpty-Ow",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 3233,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "uoQaGqpYYoE",
+      "url": "https://www.youtube.com/watch?v=uoQaGqpYYoE",
+      "title": "These Secret 10-Second Hacks will Make ChatGPT 10x Faster!",
+      "description": "Grab the prompts shown here: https://www.skool.com/the-rn-community-5769\n\n\n---\n\nSubscribe for more bitesized tips to make AI work for you! 🥚",
+      "duration": 450.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/uoQaGqpYYoE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD1CNbCdrQFzP-1-Vli21fHCwyoxw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uoQaGqpYYoE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBdjLTTx0aUvcJEoB52h3O9AzWXCg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uoQaGqpYYoE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiO5_OFcg4__i40C9QDHckUHFQIw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/uoQaGqpYYoE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo-y61y8gUpKGxKfRpMk1nbxBe7w",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 463,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "cWNZfFl1aLU",
+      "url": "https://www.youtube.com/watch?v=cWNZfFl1aLU",
+      "title": "This Social Media AI System Creates Unique Content Hourly! (plug-&-play setup)",
+      "description": "In this tutorial, I'll show you how to create an AI automation system that will create daily posts for your Facebook, Instagram, X (or Twitter), and LinkedIn accounts. \n\n🥚 Resources and...",
+      "duration": 685.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/cWNZfFl1aLU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAs-F1vguYrIO-UzmkCZJ4x9me2NQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cWNZfFl1aLU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgx6Q7tpngvA6MRAE8-si0Phq7DA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cWNZfFl1aLU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDegC_LS72KEJJnJD4yyO5t6zmQ_Q",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cWNZfFl1aLU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDb1cop5bSz8Q4TLWGTAyw9kgRfw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 925,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "Hkrjh4vdWmA",
+      "url": "https://www.youtube.com/watch?v=Hkrjh4vdWmA",
+      "title": "The 5-Second Tip to Make ChatGPT 10x Faster (Auto-Prompting!)",
+      "description": "Subscribe for more bitesized tips to make AI work for you! 🥚\n\nKeywords: ChatGPT, AI tips, auto-prompting, faster ChatGPT, AI productivity, ChatGPT hack, quick tip, improve AI speed, chatbot...",
+      "duration": 132.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Hkrjh4vdWmA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBrFU8E-qMyMP81wJty6lfVbDBDMQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Hkrjh4vdWmA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBo6HrC27l7xFFX5M1vokXh_amCrQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Hkrjh4vdWmA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvKfQrBl0pnwihRuHB74eY92ZNkg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Hkrjh4vdWmA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEi8i0As2LP2nNOzvqSsOOeKNGzw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 445,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "Q0SauxNEiy0",
+      "url": "https://www.youtube.com/watch?v=Q0SauxNEiy0",
+      "title": "I Watched Naval Ravikant's 1-hour AI Interview Twice, Here are the Takeaways You Should Know 🥚",
+      "description": "Dive deep into the wisdom of Naval Ravikant as we dissect his thought-provoking insights on AI. In this video, I share the key takeaways from his hour-long interview at Vitalia, distilled down...",
+      "duration": 529.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Q0SauxNEiy0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB9C46PgcOGy2Fi7Wvy9pmALIDAJA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Q0SauxNEiy0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCSXXhwZ-5fl-Z81IZL9LJRIABQAA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Q0SauxNEiy0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxc-tS4YoOGRVP1JKJVOnI6rVVtQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Q0SauxNEiy0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWMWp7n2EjAQxaHaWoJtRF8XTJDA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 421,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "CwedIOnJtgA",
+      "url": "https://www.youtube.com/watch?v=CwedIOnJtgA",
+      "title": "I Watched Sam Altman's 2-hour Interview Twice, Here are the Takeaways You Should Know 🥚",
+      "description": "In this video, I dive deep into Sam Altman's insightful interview, condensing two hours of valuable content into actionable takeaways you won't want to miss. \n\nThis is RoboNuggets, where we...",
+      "duration": 517.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/CwedIOnJtgA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDB9uT2PV6RdyQSe4a8_x9BFiMVZg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CwedIOnJtgA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDosejI15ZdF7uHfLCyKbgtfIbhJg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CwedIOnJtgA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFxK2IylV0htKJ4A7HNbZwlkTKXQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CwedIOnJtgA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCY4woI0E_Rt6qrOSYT2W_oLSMtg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 914,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    }
+  ],
+  "extractor_key": "YoutubeTab",
+  "extractor": "youtube:tab",
+  "webpage_url": "https://www.youtube.com/@RoboNuggets/videos",
+  "original_url": "https://www.youtube.com/@RoboNuggets/videos",
+  "webpage_url_basename": "videos",
+  "webpage_url_domain": "youtube.com",
+  "release_year": null,
+  "epoch": 1746089011
+}
