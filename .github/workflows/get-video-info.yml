@@ -1,6 +1,3 @@
-name: Get YouTube Video Info
-
-on:
   workflow_dispatch:
     inputs:
       video_url:
@@ -12,51 +9,58 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install yt-dlp
+    - name: Install yt-dlp
+      run: pip install yt-dlp
 
-      # (Optionnel) cookies pour vidéos restreintes
-      - name: Prepare cookies (optional)
-        if: ${{ secrets.COOKIES_B64 != '' }}
-        run: |
-          echo "${{ secrets.COOKIES_B64 }}" | base64 -d > cookies.txt
+    - name: Decode base64 cookie and create cookies.txt
+    - name: Recreate base64 file from secrets
+      run: |
+        mkdir -p .private
+        echo "${{ secrets.COOKIES_PART_01 }}" > .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_02 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_03 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_04 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_05 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_06 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_07 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_08 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_09 }}" >> .private/cookie.txt.base64
+        echo "${{ secrets.COOKIES_PART_10 }}" >> .private/cookie.txt.base64
 
-      - name: Prepare output filename
-        id: prep
-        run: |
-          url="${{ github.event.inputs.video_url }}"
-          slug=$(echo "$url" | sed 's/[^a-zA-Z0-9]/_/g')
-          ts=$(date +%s)
-          mkdir -p outputs
-          echo "FILENAME=outputs/video_info_${ts}_${slug}.json" >> $GITHUB_ENV
-          echo "filename=outputs/video_info_${ts}_${slug}.json" >> $GITHUB_OUTPUT
+    - name: Decode base64 into cookies.txt
+      run: |
+        base64 -d .private/cookie.txt.base64 > cookies.txt
 
-      - name: Run extractor (yt-dlp + transcript)
-        env:
-          YT_URL: ${{ github.event.inputs.video_url }}
-        run: |
-          if [ -f cookies.txt ]; then
-            python main.py "$YT_URL" "${{ env.FILENAME }}" --cookies cookies.txt
-          else
-            python main.py "$YT_URL" "${{ env.FILENAME }}"
-          fi
+    - name: Prepare output filename
+      id: prep
+      run: |
+        url="${{ github.event.inputs.video_url }}"
+        slug=$(echo "$url" | sed 's/[^a-zA-Z0-9]/_/g')
+        timestamp=$(date +%s)
+        mkdir -p outputs
+        filename="outputs/video_info_${timestamp}_${slug}.json"
+        echo "filename=$filename" >> $GITHUB_ENV
+        echo "filename=$filename" >> "$GITHUB_OUTPUT"
 
-      - name: Commit result JSON
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add "${{ env.FILENAME }}"
-          git commit -m "Add video info: ${{ env.FILENAME }}" || echo "Nothing to commit"
-          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+    - name: Run yt-dlp with cookies
+      run: |
+        url="${{ github.event.inputs.video_url }}"
+        yt-dlp --no-playlist --cookies cookies.txt --dump-single-json "$url" > "${{ env.filename }}"
+
+    - name: Commit result JSON
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add "${{ env.filename }}"
+        git commit -m "Add video info: ${{ env.filename }}"
+        git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
