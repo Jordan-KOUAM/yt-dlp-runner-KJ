@@ -1,0 +1,1560 @@
+{
+  "id": "@LionelHortis",
+  "channel": "Lionel Hortis",
+  "channel_id": "UCZyp_NSTTID0FAN7fFRF8cQ",
+  "title": "Lionel Hortis",
+  "availability": null,
+  "channel_follower_count": 1250,
+  "description": "Je suis le Media buyer d'Afrique. \n\nBienvenue sur ma chaîne ! Je suis le fondateur de Marketing-Ventes, une agence d’acquisition spécialisée dans Facebook et Google, au service des marques e-commerce et des formateurs.\n\nJ'accompagne principalement les marques e-commerce et les particuliers/consultants qui dépensent en moyenne 500 euros par jour sur Facebook et Google pour l’acquisition de clients.\n\nCes cinq dernières années, j’ai eu la chance d’accompagner plus de 100 marques et particuliers avec mon agence, et de gérer plus de 400 000 euros de budget publicitaire sur Meta en 2024.\n\nAujourd’hui, je prends plaisir à vous partager tout ce que j'ai appris sur la publicité en ligne. Je vous parle également de mes investissements en tant qu'entrepreneur africain.\n\nN'oubliez pas d'activer la petite cloche 🔔 pour être informé dès qu'une nouvelle vidéo est en ligne, et n'hésitez pas à me donner vos avis en commentaires !\n",
+  "tags": [
+    "Publicité Facebook",
+    "google ads",
+    "facebook ads",
+    "business en ligne",
+    "gagner de l'argent",
+    "gagner de l'argent sur internet",
+    "intelligence articielle",
+    "IA"
+  ],
+  "thumbnails": [
+    {
+      "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 175,
+      "width": 1060,
+      "preference": -10,
+      "id": "0",
+      "resolution": "1060x175"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 188,
+      "width": 1138,
+      "preference": -10,
+      "id": "1",
+      "resolution": "1138x188"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 283,
+      "width": 1707,
+      "preference": -10,
+      "id": "2",
+      "resolution": "1707x283"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 351,
+      "width": 2120,
+      "preference": -10,
+      "id": "3",
+      "resolution": "2120x351"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 377,
+      "width": 2276,
+      "preference": -10,
+      "id": "4",
+      "resolution": "2276x377"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 424,
+      "width": 2560,
+      "preference": -10,
+      "id": "5",
+      "resolution": "2560x424"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=s0",
+      "id": "banner_uncropped",
+      "preference": -5
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/GWlj-vJu2yN3dzL_N0JXPDQle0n8WLV93ntlqgyVc3DN9H4kRJ8XF7b24TLO2sknmVWN-pwkzg=s900-c-k-c0x00ffffff-no-rj",
+      "height": 900,
+      "width": 900,
+      "id": "7",
+      "resolution": "900x900"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/GWlj-vJu2yN3dzL_N0JXPDQle0n8WLV93ntlqgyVc3DN9H4kRJ8XF7b24TLO2sknmVWN-pwkzg=s0",
+      "id": "avatar_uncropped",
+      "preference": 1
+    }
+  ],
+  "uploader_id": "@LionelHortis",
+  "uploader_url": "https://www.youtube.com/@LionelHortis",
+  "modified_date": null,
+  "view_count": null,
+  "playlist_count": 2,
+  "uploader": "Lionel Hortis",
+  "channel_url": "https://www.youtube.com/channel/UCZyp_NSTTID0FAN7fFRF8cQ",
+  "_type": "playlist",
+  "entries": [
+    {
+      "id": "UCZyp_NSTTID0FAN7fFRF8cQ",
+      "channel": "Lionel Hortis",
+      "channel_id": "UCZyp_NSTTID0FAN7fFRF8cQ",
+      "title": "Lionel Hortis - Videos",
+      "availability": null,
+      "channel_follower_count": 1250,
+      "description": "Je suis le Media buyer d'Afrique. \n\nBienvenue sur ma chaîne ! Je suis le fondateur de Marketing-Ventes, une agence d’acquisition spécialisée dans Facebook et Google, au service des marques e-commerce et des formateurs.\n\nJ'accompagne principalement les marques e-commerce et les particuliers/consultants qui dépensent en moyenne 500 euros par jour sur Facebook et Google pour l’acquisition de clients.\n\nCes cinq dernières années, j’ai eu la chance d’accompagner plus de 100 marques et particuliers avec mon agence, et de gérer plus de 400 000 euros de budget publicitaire sur Meta en 2024.\n\nAujourd’hui, je prends plaisir à vous partager tout ce que j'ai appris sur la publicité en ligne. Je vous parle également de mes investissements en tant qu'entrepreneur africain.\n\nN'oubliez pas d'activer la petite cloche 🔔 pour être informé dès qu'une nouvelle vidéo est en ligne, et n'hésitez pas à me donner vos avis en commentaires !\n",
+      "tags": [
+        "Publicité Facebook",
+        "google ads",
+        "facebook ads",
+        "business en ligne",
+        "gagner de l'argent",
+        "gagner de l'argent sur internet",
+        "intelligence articielle",
+        "IA"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 175,
+          "width": 1060,
+          "preference": -10,
+          "id": "0",
+          "resolution": "1060x175"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 188,
+          "width": 1138,
+          "preference": -10,
+          "id": "1",
+          "resolution": "1138x188"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 283,
+          "width": 1707,
+          "preference": -10,
+          "id": "2",
+          "resolution": "1707x283"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 351,
+          "width": 2120,
+          "preference": -10,
+          "id": "3",
+          "resolution": "2120x351"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 377,
+          "width": 2276,
+          "preference": -10,
+          "id": "4",
+          "resolution": "2276x377"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 424,
+          "width": 2560,
+          "preference": -10,
+          "id": "5",
+          "resolution": "2560x424"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=s0",
+          "id": "banner_uncropped",
+          "preference": -5
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/GWlj-vJu2yN3dzL_N0JXPDQle0n8WLV93ntlqgyVc3DN9H4kRJ8XF7b24TLO2sknmVWN-pwkzg=s900-c-k-c0x00ffffff-no-rj",
+          "height": 900,
+          "width": 900,
+          "id": "7",
+          "resolution": "900x900"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/GWlj-vJu2yN3dzL_N0JXPDQle0n8WLV93ntlqgyVc3DN9H4kRJ8XF7b24TLO2sknmVWN-pwkzg=s0",
+          "id": "avatar_uncropped",
+          "preference": 1
+        }
+      ],
+      "uploader_id": "@LionelHortis",
+      "uploader_url": "https://www.youtube.com/@LionelHortis",
+      "modified_date": null,
+      "view_count": null,
+      "playlist_count": 15,
+      "uploader": "Lionel Hortis",
+      "channel_url": "https://www.youtube.com/channel/UCZyp_NSTTID0FAN7fFRF8cQ",
+      "_type": "playlist",
+      "entries": [
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "0XIdC3udDp4",
+          "url": "https://www.youtube.com/watch?v=0XIdC3udDp4",
+          "title": "Lancer une Publicité Facebook Ads  pour vendre en Afrique: La Méthode pour débuter en 2025",
+          "description": "👉 Rejoindre le pogramme  FACEBOOK ADS STARTER\nhttps://lionelhortis.mychariow.com/fbads-starter\n\n📖 Mon guide gratuit Facebook Ads : https://go.lionelhortis.com/\n\n👉Version numérique...",
+          "duration": 1120.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/0XIdC3udDp4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCrXKlukUzwNGJs7PbGzgcfMh7DcQ",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/0XIdC3udDp4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAqO2tus_MXh3caKr1rOMjWDshpcQ",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/0XIdC3udDp4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwuYSsuk2clsmNchkybMHGBtc22g",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/0XIdC3udDp4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvBsX9-cY63KlWCABosMtE55ggPA",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 790,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "TVxOqkq17Z0",
+          "url": "https://www.youtube.com/watch?v=TVxOqkq17Z0",
+          "title": "Ta Publicité Facebook Ads  ne fonctionnes plus ? Voici quoi faire !",
+          "description": "👉 Mon livre\" Comment vendre n'importe quel produit avec la publicité Facebook\" à -50%: https://lionelhortis.mychariow.com/livreads\n\n👉 Ma nouvelle formation pour t'apprendre à vendre...",
+          "duration": 396.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/TVxOqkq17Z0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD46FeJWDeKUJpXB6s2hNdXlIDq_Q",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/TVxOqkq17Z0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD_4yM2uCVBDgbFJwjCAomgJbcZhg",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/TVxOqkq17Z0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSLiqW69quhlUTZSmml_W4x80pXw",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/TVxOqkq17Z0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_SJY2yKStrM_Ba1Nr6EYQj8NAWA",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 1105,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "oQN9JheNJR0",
+          "url": "https://www.youtube.com/watch?v=oQN9JheNJR0",
+          "title": "Facebook Ads: Les 5 erreurs à ne SURTOUT plus reproduire en 2025",
+          "description": "👉 Mon guide gratuit Facebook Ads:  https://go.lionelhortis.com/\n👉 Mon blog marketing : https://lionelhortis.com/blog/\n\nLes 5 erreurs FATALES à éviter absolument sur Facebook Ads en...",
+          "duration": 399.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/oQN9JheNJR0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLARhBHlRi_rNfcBMUXL_4aw9iLM3Q",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/oQN9JheNJR0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCO8wOuoDmq5C99mCq2jk5ps2oEeQ",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/oQN9JheNJR0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkSEnem3MB05q2mMg33sq5Z9szVg",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/oQN9JheNJR0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLci0Mvd4IRnNPYir6-Tzpwc72sQ",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 470,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "ym6D_uyur2M",
+          "url": "https://www.youtube.com/watch?v=ym6D_uyur2M",
+          "title": "Facebook Ads avec un petit budget : La Méthode pour débuter en 2025",
+          "description": "Comment faire de la publicité Facebook avec un petit budget en 2025 ?\nTu veux lancer des campagnes Facebook Ads rentables, mais tu n’as pas un gros budget pub ?  Cette vidéo est faite pour...",
+          "duration": 282.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/ym6D_uyur2M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBDsmWlmGw9WBUf9Ep7B9vh3I7K8w",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/ym6D_uyur2M/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBCa9TC9YFrfidJU5gFnB8CQOfAdg",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/ym6D_uyur2M/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiMYjt1y9AYLXbt8scK9pFGVrUUA",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/ym6D_uyur2M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgJHcg06Won3KQI6wBH-fWCXfH6w",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 5166,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "wimumQ8AvVE",
+          "url": "https://www.youtube.com/watch?v=wimumQ8AvVE",
+          "title": "Choisir le bon objectif de campagne pour réussir sur Facebook Ads en 2025",
+          "description": "Mon guide gratuit pour apprendre à lancer ta campagne publicitaire en 7 jours:  https://go.lionelhortis.com\n\n Obtenez un exemplaire de mon livre ( comment vendre n'importe quel produit avec...",
+          "duration": 572.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/wimumQ8AvVE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA8Jqy0IumpaHI1eX5SebO1r16SBg",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/wimumQ8AvVE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAxk66PI47Kd40h1Qhygg6HJBl5bQ",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/wimumQ8AvVE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1QntIMp2oGJvTdW6DDAJvDP2o3A",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/wimumQ8AvVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUxjj-PVpAMrjhMNYKLwjawWE1cQ",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 2473,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "AXCOo4qANnE",
+          "url": "https://www.youtube.com/watch?v=AXCOo4qANnE",
+          "title": "⚠️  Arrêtez de booster vos publications Facebook en 2025",
+          "description": "✅ Mon guide gratuit pour apprendre à lancer ta campagne publicitaire en 7 jours:  https://go.lionelhortis.com\n\n✅ Obtenez un exemplaire de mon livre ( comment vendre n'importe quel produit...",
+          "duration": 563.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/AXCOo4qANnE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAvGxD4b26NhEdx3Q20DRW6HqIyzw",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/AXCOo4qANnE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA5zEi7CHsNfoxd7V9B1nC2UEEoMQ",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/AXCOo4qANnE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoQ2PK2JbXcW3Gk_g2zuzikIg7DQ",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/AXCOo4qANnE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByVIL_jj87IOojUjXqaNLd10rKYQ",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 2647,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "hT1wnYMmkJY",
+          "url": "https://www.youtube.com/watch?v=hT1wnYMmkJY",
+          "title": "Comment faire un bon ciblage sur Facebook Ads en 2025  ?",
+          "description": "Dans cette vidéo, je vous dévoile une nouvelle stratégie de ciblage ultra-performante pour vos publicités Facebook en 2025. Que vous soyez débutant ou expert, cette méthode va vous permettre...",
+          "duration": 494.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/hT1wnYMmkJY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDE4cSkzpvWooidiODqt7jxPoRzbw",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/hT1wnYMmkJY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAGHqR62eEZJV11tA_RXDqr_Oo1RQ",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/hT1wnYMmkJY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh4XrPDXpyiZ_H__EFJ31LIaDvbg",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/hT1wnYMmkJY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhLWTKlDrSVNtZG1S8knupwQ8LrA",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 2437,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "iKhyZoEnjK0",
+          "url": "https://www.youtube.com/watch?v=iKhyZoEnjK0",
+          "title": "Publicité Facebook: Comment optimiser vos campagnes facebook ads pour réduire le CPA  Le CPL ?",
+          "description": "Dans cette vidéo je vous partage une stratégie d'optimisation Faceboook ads que j'ai testé sur l'un de mes comptes publicitaires.. \n\nAvec cette optimisation on a réussir à faire baisser...",
+          "duration": 416.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/iKhyZoEnjK0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLARZsLHZXZbt-OlgpbwrXWLTrFY_Q",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/iKhyZoEnjK0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCOjABBfLI_UDLFNPal9veG78F2Mw",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/iKhyZoEnjK0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAELC40DrrkeJzax_Ug9_k6RAjb0A",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/iKhyZoEnjK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxXsfJBeHOFFdtmNj_SxQgQR2m4g",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 684,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "A7xeBk2cpPY",
+          "url": "https://www.youtube.com/watch?v=A7xeBk2cpPY",
+          "title": "COMEUP: La Formation complète pour faire au moins 1000Є/mois en freelancing  ( En 30 jours )",
+          "description": "Cette formation est une formation très complète qui vous permettra de réussir sur Come Up en 2025. Anciennement 5euros.com, ComeUp est une plate-forme de freelancing avec une concurrence...",
+          "duration": 15437.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/A7xeBk2cpPY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC36aOr4_4S6tFCE-dmwffh0goAuQ",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/A7xeBk2cpPY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1BqfSl0l9XFXbG5BwK6mwRuo9Og",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/A7xeBk2cpPY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-EQbXLd4FpJWpAqFUDHDWJfybqw",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/A7xeBk2cpPY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA--30yF_wiEvtg4piYTgZNguu98A",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 4368,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "E7NtusAwb08",
+          "url": "https://www.youtube.com/watch?v=E7NtusAwb08",
+          "title": "5 compétences pour gagner de l'argent sur internet en 2025 ( 10.000 euros / mois )",
+          "description": "Dans cette vidéo, je te révèle 5 compétences indispensables pour gagner plus de 10 000 euros par mois depuis l'Afrique ! Que tu sois entrepreneur, freelance ou que tu souhaites lancer une...",
+          "duration": 516.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/E7NtusAwb08/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCLwwmPc0sU7PdjJlduaxOtGcYJMA",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/E7NtusAwb08/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7k0HMJyFomanYSjH7B8z8Hx9ICQ",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/E7NtusAwb08/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAhV0FmEyEA3brdT8HYVeBoyQsZw",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/E7NtusAwb08/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMbWDzEcXERgMD3ejpknxGynW7Pw",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 419,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "x2Sye7mauwI",
+          "url": "https://www.youtube.com/watch?v=x2Sye7mauwI",
+          "title": "100.000 euros en 2 ans avec ce business depuis l'Afrique ( secrets dévoilés )",
+          "description": "Découvrez dans cette vidéo le parcours qui m'a permis de générer plus de 100.000 euros en seulement 2 ans grâce à un business innovant ! Je vous révèle les secrets, les stratégies...",
+          "duration": 400.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/x2Sye7mauwI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCSBbRyCLbfCucGu5hQAvrx-esK2Q",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/x2Sye7mauwI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBQLgFpWJVSnrhodGyrgVVNeZBjRQ",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/x2Sye7mauwI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA46fXSxDEim2PpCTYvwvloVnXHxg",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/x2Sye7mauwI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrej9gnPgCY4g91VScPApgRUhabA",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 242,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "h-DlspeaHUc",
+          "url": "https://www.youtube.com/watch?v=h-DlspeaHUc",
+          "title": "E-commerce en Afrique : Comment lancer une Publicité Facebook pour vendre via WhatsApp...",
+          "description": "Découvrez comment transformer votre stratégie d'e-commerce en Afrique grâce à la puissance des publicités Facebook et à l’utilisation de WhatsApp pour conclure vos ventes.\n\n Dans cette...",
+          "duration": 692.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/h-DlspeaHUc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCQYqd9IfOFHsHl-p9yoxs-wnCZig",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/h-DlspeaHUc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDkM6Zy5bCaiIzwHBDRddIwjr_oBw",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/h-DlspeaHUc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2ILqasFUqy4-RbBACyuKpsqpPlg",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/h-DlspeaHUc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjQl-hRuUWneq-CXQlCgcSr_VGNw",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 899,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "Dwr3LzLoIto",
+          "url": "https://www.youtube.com/watch?v=Dwr3LzLoIto",
+          "title": "Voici 2 nouvelles stratégies pour lancer des publicités Facebook ads ( E-commerce en Afrique )",
+          "description": "Vous souhaitez apprendre à lancer une campagne publicitaire Facebook pour vendre vos produits en Afrique ?  \nVous faites de l'ecommerce en Afrique  mais vous n'arrivez pas à rentabiliser...",
+          "duration": 1276.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/Dwr3LzLoIto/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBUUM1Wlh-YwST8_RoIDB1A8tvP5A",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/Dwr3LzLoIto/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDSYgWoP0ZrtgbWSbFjXa5czsS4RQ",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/Dwr3LzLoIto/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfNJCuWZgiGLmSM9i05YuH-9M7gQ",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/Dwr3LzLoIto/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCD2dxi3bd2Feaauu8pLoSot9cPxQ",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 615,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "LXfF6NiF9iY",
+          "url": "https://www.youtube.com/watch?v=LXfF6NiF9iY",
+          "title": "Comment paramétrer votre business Manager Facebook ( Méthode 2025 )",
+          "description": "Dans cette vidéo, je vous montre étape par étape comment bien paramétrer votre premier business manager Facebook avant de lancer vos campagnes publicitaires Facebook Ads.",
+          "duration": 769.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/LXfF6NiF9iY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDSTqhcFvHTv2UrmFPJZh3Fgfldag",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/LXfF6NiF9iY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBumO4HvvecCpU8V9en5ZcZMQi9_g",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/LXfF6NiF9iY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0UZA808u-43RIYK_Fw2Rc6Xu0vg",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/LXfF6NiF9iY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXzh-Mhhlp6B2m2Sp57xwpaQ0gsw",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 415,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "xJvfzfpUJ70",
+          "url": "https://www.youtube.com/watch?v=xJvfzfpUJ70",
+          "title": "Comment créer votre business manager Facebook ads ( La méthode la plus facile )",
+          "description": "Dans cette vidéo, je vous présente étape par étape comment créer votre business manager Facebook  pour lancer vos campagnes publicitaires Facebook Ads. \n\nTélécharger mon guide Facebook...",
+          "duration": 222.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/xJvfzfpUJ70/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCoxJHS421RKO_b0c9FeZm5_nKxIw",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/xJvfzfpUJ70/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDD4tuQh1Y37GoucvuHVP_Foretpg",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/xJvfzfpUJ70/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbvnIYNKu2mjQ53UrjAXrTgUMtRw",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/xJvfzfpUJ70/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB35ngtz68RCUU-iGf9lH0EyTzmGA",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 331,
+          "live_status": null,
+          "channel_is_verified": null,
+          "__x_forwarded_for_ip": null
+        }
+      ],
+      "extractor_key": "YoutubeTab",
+      "extractor": "youtube:tab",
+      "webpage_url": "https://www.youtube.com/@LionelHortis/videos",
+      "__x_forwarded_for_ip": null,
+      "release_year": null,
+      "epoch": 1756886141
+    },
+    {
+      "id": "UCZyp_NSTTID0FAN7fFRF8cQ",
+      "channel": "Lionel Hortis",
+      "channel_id": "UCZyp_NSTTID0FAN7fFRF8cQ",
+      "title": "Lionel Hortis - Shorts",
+      "availability": null,
+      "channel_follower_count": 1250,
+      "description": "Je suis le Media buyer d'Afrique. \n\nBienvenue sur ma chaîne ! Je suis le fondateur de Marketing-Ventes, une agence d’acquisition spécialisée dans Facebook et Google, au service des marques e-commerce et des formateurs.\n\nJ'accompagne principalement les marques e-commerce et les particuliers/consultants qui dépensent en moyenne 500 euros par jour sur Facebook et Google pour l’acquisition de clients.\n\nCes cinq dernières années, j’ai eu la chance d’accompagner plus de 100 marques et particuliers avec mon agence, et de gérer plus de 400 000 euros de budget publicitaire sur Meta en 2024.\n\nAujourd’hui, je prends plaisir à vous partager tout ce que j'ai appris sur la publicité en ligne. Je vous parle également de mes investissements en tant qu'entrepreneur africain.\n\nN'oubliez pas d'activer la petite cloche 🔔 pour être informé dès qu'une nouvelle vidéo est en ligne, et n'hésitez pas à me donner vos avis en commentaires !\n",
+      "tags": [
+        "Publicité Facebook",
+        "google ads",
+        "facebook ads",
+        "business en ligne",
+        "gagner de l'argent",
+        "gagner de l'argent sur internet",
+        "intelligence articielle",
+        "IA"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 175,
+          "width": 1060,
+          "preference": -10,
+          "id": "0",
+          "resolution": "1060x175"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 188,
+          "width": 1138,
+          "preference": -10,
+          "id": "1",
+          "resolution": "1138x188"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 283,
+          "width": 1707,
+          "preference": -10,
+          "id": "2",
+          "resolution": "1707x283"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 351,
+          "width": 2120,
+          "preference": -10,
+          "id": "3",
+          "resolution": "2120x351"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 377,
+          "width": 2276,
+          "preference": -10,
+          "id": "4",
+          "resolution": "2276x377"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 424,
+          "width": 2560,
+          "preference": -10,
+          "id": "5",
+          "resolution": "2560x424"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ihs2TlKbM4jNPMdsXQVv8eiop2FudAyfSmkYQkz_2bSShLcJRJ2qF6er3RPH5dKTfxxXLQCY=s0",
+          "id": "banner_uncropped",
+          "preference": -5
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/GWlj-vJu2yN3dzL_N0JXPDQle0n8WLV93ntlqgyVc3DN9H4kRJ8XF7b24TLO2sknmVWN-pwkzg=s900-c-k-c0x00ffffff-no-rj",
+          "height": 900,
+          "width": 900,
+          "id": "7",
+          "resolution": "900x900"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/GWlj-vJu2yN3dzL_N0JXPDQle0n8WLV93ntlqgyVc3DN9H4kRJ8XF7b24TLO2sknmVWN-pwkzg=s0",
+          "id": "avatar_uncropped",
+          "preference": 1
+        }
+      ],
+      "uploader_id": "@LionelHortis",
+      "uploader_url": "https://www.youtube.com/@LionelHortis",
+      "modified_date": null,
+      "view_count": null,
+      "playlist_count": 37,
+      "uploader": "Lionel Hortis",
+      "channel_url": "https://www.youtube.com/channel/UCZyp_NSTTID0FAN7fFRF8cQ",
+      "_type": "playlist",
+      "entries": [
+        {
+          "title": "Boostez Vos Ventes : Les Secrets des Tests Publicitaires Visuels",
+          "view_count": 118,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/Uf0PPb4Xdso/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAiCXQ5CiddHsPk-K2bbbjDy00q3Q",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "Uf0PPb4Xdso",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/Uf0PPb4Xdso",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Découvrez une Stratégie Efficace à Tester Maintenant",
+          "view_count": 37,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/KXOunrG3UgQ/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB6L12La8STZ5lD8kMDt_TWFO7NrQ",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "KXOunrG3UgQ",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/KXOunrG3UgQ",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Campagnes Publicitaires: 220 Inscriptions en 3 Jours!",
+          "view_count": 45,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/yaodXlssKIM/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAvqgHwJ0pZ5C207Znc_7BKBfYKLA",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "yaodXlssKIM",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/yaodXlssKIM",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Stratégie de Publicité Facebook Incontournable pour 2025",
+          "view_count": 57,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/vlspR-yGaoU/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDQohVoxl1l-xIqYiFrhcji28vK2g",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "vlspR-yGaoU",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/vlspR-yGaoU",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Maximisez vos Publicités sur Facebook: Stratégies Efficaces",
+          "view_count": 24,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/uO719gheEas/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAPWuB9BKKCG-yV-Afw_L3uaVBFkw",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "uO719gheEas",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/uO719gheEas",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Stratégie Publicitaire 2025: Notre Méthode Gagnante",
+          "view_count": 685,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/m3352fGOiVE/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAcMzpntNDmvO9wdDgNo_SBVAzknw",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "m3352fGOiVE",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/m3352fGOiVE",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Révolutionnez vos publicités Facebook : Ciblez avec Émotion",
+          "view_count": 353,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/YLaaTxPE3I4/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDKaxqopSgqOZiO9zx5iWaifZlYxQ",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "YLaaTxPE3I4",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/YLaaTxPE3I4",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Boostez vos ventes : Solution pour artisans en Afrique",
+          "view_count": 69,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/OoEpF9MGHgo/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC2eQ_SdFuSdfzc14Wp96CDlzv7fA",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "OoEpF9MGHgo",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/OoEpF9MGHgo",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Lancement E-commerce en 2025 : Stratégies pour la Diaspora Africaine",
+          "view_count": 334,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/LW6KbDWcVu0/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDWbBzzVa9cUGLG4dhUKhh811yhXw",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "LW6KbDWcVu0",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/LW6KbDWcVu0",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Gagner 10 000 Euros par Mois : Stratégies Réalistes",
+          "view_count": 48,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/pHY8qtlMNuM/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD6gk0-MbiDEQf39Ik90Bd2OQdS0Q",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "pHY8qtlMNuM",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/pHY8qtlMNuM",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Comment j'ai transformé ma 'faim' en succès entrepreneurial",
+          "view_count": 13,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/Agx8uj9Ia9U/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAxTQKme16zipqdhd34EF9z5K--2g",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "Agx8uj9Ia9U",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/Agx8uj9Ia9U",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Les 5 Erreurs à Éviter en Publicité Facebook",
+          "view_count": 60,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/VYqdogKvooI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBY7zUhOF5rrb0I5rpnwlkMjCfQHg",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "VYqdogKvooI",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/VYqdogKvooI",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Devenir Media Buyer : Mon Parcours et Astuces",
+          "view_count": 58,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/dDN1PQEfxhk/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDlTyMtzOiJuzyrlFw0H6eqo7Qx0g",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "dDN1PQEfxhk",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/dDN1PQEfxhk",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Comment j'ai gagné mes premiers 1000 euros en freelance",
+          "view_count": 24,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/RJ6qSa1GD7M/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAuyOSNX7Y-VNCYnO6ouztm0mtHfw",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "RJ6qSa1GD7M",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/RJ6qSa1GD7M",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Développer la Confiance: Mon Parcours en Afrique",
+          "view_count": 45,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/eFvrby9S8a0/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDWv1bn5OB3fdebbQc8vil4AUqlUQ",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "eFvrby9S8a0",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/eFvrby9S8a0",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Dépasser les Promesses: Gagner 10 000€ en 90 Jours?",
+          "view_count": 20,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/glMsy8ws6WA/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCkgTSK92fTjK9mrxLdrAOReZGWTw",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "glMsy8ws6WA",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/glMsy8ws6WA",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Évitez ces 4 erreurs dans vos campagnes publicitaires",
+          "view_count": 27,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/ruMooYWRZfY/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDvXKB8XXI-0eeD48AOKOVrAXqoTg",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "ruMooYWRZfY",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/ruMooYWRZfY",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Surmonter les blocages publicitaires: Un parcours vers le succès",
+          "view_count": 21,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/Wm6RdoX_Hb0/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAx3z5EltO4_pvc4FrwxTDJ5qD25Q",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "Wm6RdoX_Hb0",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/Wm6RdoX_Hb0",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Maîtrisez la Publicité Facebook: Gagnez des Revenus Élevés",
+          "view_count": 76,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/ogngmiO0DeI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBIPbGAj8zD7M_Jf-HW84SbSGofdQ",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "ogngmiO0DeI",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/ogngmiO0DeI",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Testez Plusieurs Créatifs : La Clé du Succès Publicitaire",
+          "view_count": 31,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/uHnqB4P2sIY/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCWhvTkq6cgcFe6126DFFPR2A2XMA",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "uHnqB4P2sIY",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/uHnqB4P2sIY",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Freelancing: Débuter sur les Plateformes ou Prospection?",
+          "view_count": 17,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/2EKNF6P3Vic/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAOxxNugad2XyoM0_c5dt-UXHKAug",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "2EKNF6P3Vic",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/2EKNF6P3Vic",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Comment Captiver l'Attention sur Facebook pour Élever vos Ventes",
+          "view_count": 30,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/tmU80WgS2Po/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCSdGTj6NFQ1Xmyz_1hqhnY50H_2Q",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "tmU80WgS2Po",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/tmU80WgS2Po",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Devenir Mediabuyer : Gagnez de l’Argent en Ligne",
+          "view_count": 56,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/sl7PxJvfyj8/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC-qyvEd23TXWYvSm044kg-xkPpug",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "sl7PxJvfyj8",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/sl7PxJvfyj8",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Débutants en 2025 : Comment réussir sur cette plateforme",
+          "view_count": 498,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/E1OuFBbmIZQ/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDaNZIskF6Z_HUt7_b6ydjnabwV3A",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "E1OuFBbmIZQ",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/E1OuFBbmIZQ",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Gagnez jusqu'à 100 000 € en tant que Média Buyer Freelance",
+          "view_count": 276,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/xDLrg5GZrvQ/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCI6ENApAOwVVHqkKee3Dzv8mGH6Q",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "xDLrg5GZrvQ",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/xDLrg5GZrvQ",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Ne vous comparez pas aux autres",
+          "view_count": 41,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/PSrdXCpChiw/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB1BLd2rQgMwfwwEoGEU-ev-Cez2A",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "PSrdXCpChiw",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/PSrdXCpChiw",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Proposez vos services  en allant vers le client : Stratégies pour débutants",
+          "view_count": 50,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/P-dmuZ4C_rw/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDocmUvVs98HIYbotkv_eJWs03sKQ",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "P-dmuZ4C_rw",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/P-dmuZ4C_rw",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Gagnez 1000€ par Mois Grâce à l'Automatisation",
+          "view_count": 157,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/qryewvpLlnY/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBUzX0S-nX0cjCMzSQ15Rc5AlRR4g",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "qryewvpLlnY",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/qryewvpLlnY",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Devenez Closeur Pro: Gagnez 500€ et Plus Facilement",
+          "view_count": 23,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/iSY_zAIg6P8/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLByQMp1rp5q0jWSvLpXfrzcTlCDrQ",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "iSY_zAIg6P8",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/iSY_zAIg6P8",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Gagner 100€ par Jour avec les Tunnels de Vente",
+          "view_count": 25,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/FNmPwWom5yY/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCQ70KZDyDQUFh5WeASXxEHo5dfkg",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "FNmPwWom5yY",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/FNmPwWom5yY",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Le closing peut vraiment CHANGER votre business en 2025",
+          "view_count": 85,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/ib28-rYVL08/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB96hO2rz5tKW_V57cbIZZu7ZzBzQ",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "ib28-rYVL08",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/ib28-rYVL08",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Compétences Essentielles pour Réussir en Freelancing",
+          "view_count": 69,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/KuBa6fcy4o4/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA0NGtJmr6t7x3Qeo_9DCkhNJrSrg",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "KuBa6fcy4o4",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/KuBa6fcy4o4",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Gagner votre vie avec le montage vidéo sur internet en 2025",
+          "view_count": 68,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/mMFhidyUuOo/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCUN2DKQg_CdkSjiHREK7lK64f9eA",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "mMFhidyUuOo",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/mMFhidyUuOo",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Maîtrisez les compétences clés pour gagner de l'argent sur internet",
+          "view_count": 22,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/rlTylNRgy3E/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBov5s12HwqMUs8C82hF9KEJQAUWw",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "rlTylNRgy3E",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/rlTylNRgy3E",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "gagner de l'argent avec les tunnels de vente en 2025",
+          "view_count": 96,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/M4uR1PmI9lU/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDJd6yQvEXh6B9_iPvPZS-cjN8x0g",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "M4uR1PmI9lU",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/M4uR1PmI9lU",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Comment Démarrer avec le Freelancing  #businessenligne #freelancing  #businessideas",
+          "view_count": 44,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/HIgJeEpD3HA/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBDzeqezCfK8v0hf3Ydhu8G-rthnQ",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "HIgJeEpD3HA",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/HIgJeEpD3HA",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Lancer un business en ligne avec Vos Compétences #businessenafrique #businessenligne  #freelancing",
+          "view_count": 30,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/eV-agdytEd0/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC6cxiBkUOy3iydk7bGtAjuPuEgRw",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "eV-agdytEd0",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/eV-agdytEd0",
+          "__x_forwarded_for_ip": null
+        }
+      ],
+      "extractor_key": "YoutubeTab",
+      "extractor": "youtube:tab",
+      "webpage_url": "https://www.youtube.com/@LionelHortis/shorts",
+      "__x_forwarded_for_ip": null,
+      "release_year": null,
+      "epoch": 1756886141
+    }
+  ],
+  "webpage_url": "https://www.youtube.com/@LionelHortis",
+  "original_url": "https://www.youtube.com/@LionelHortis",
+  "webpage_url_basename": "@LionelHortis",
+  "webpage_url_domain": "youtube.com",
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "release_year": null,
+  "epoch": 1756886141
+}
