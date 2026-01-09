@@ -1,0 +1,535 @@
+{
+  "id": "UC9r0mKat6iQ1lsTB7CGBmRA",
+  "channel": "Hey Samy",
+  "channel_id": "UC9r0mKat6iQ1lsTB7CGBmRA",
+  "title": "Hey Samy - Videos",
+  "availability": null,
+  "channel_follower_count": 32000,
+  "description": "On parle de marketing (entre autres choses)\n",
+  "tags": [],
+  "thumbnails": [
+    {
+      "url": "https://yt3.googleusercontent.com/DcB4J-xI0y2RcOq2SLzwmQbhOG-sAlRy2RdGpc_5oWyu0ZIh-TCxbzh-8-EicatXcbPaxhs9=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 175,
+      "width": 1060,
+      "preference": -10,
+      "id": "0",
+      "resolution": "1060x175"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/DcB4J-xI0y2RcOq2SLzwmQbhOG-sAlRy2RdGpc_5oWyu0ZIh-TCxbzh-8-EicatXcbPaxhs9=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 188,
+      "width": 1138,
+      "preference": -10,
+      "id": "1",
+      "resolution": "1138x188"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/DcB4J-xI0y2RcOq2SLzwmQbhOG-sAlRy2RdGpc_5oWyu0ZIh-TCxbzh-8-EicatXcbPaxhs9=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 283,
+      "width": 1707,
+      "preference": -10,
+      "id": "2",
+      "resolution": "1707x283"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/DcB4J-xI0y2RcOq2SLzwmQbhOG-sAlRy2RdGpc_5oWyu0ZIh-TCxbzh-8-EicatXcbPaxhs9=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 351,
+      "width": 2120,
+      "preference": -10,
+      "id": "3",
+      "resolution": "2120x351"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/DcB4J-xI0y2RcOq2SLzwmQbhOG-sAlRy2RdGpc_5oWyu0ZIh-TCxbzh-8-EicatXcbPaxhs9=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 377,
+      "width": 2276,
+      "preference": -10,
+      "id": "4",
+      "resolution": "2276x377"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/DcB4J-xI0y2RcOq2SLzwmQbhOG-sAlRy2RdGpc_5oWyu0ZIh-TCxbzh-8-EicatXcbPaxhs9=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 424,
+      "width": 2560,
+      "preference": -10,
+      "id": "5",
+      "resolution": "2560x424"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/DcB4J-xI0y2RcOq2SLzwmQbhOG-sAlRy2RdGpc_5oWyu0ZIh-TCxbzh-8-EicatXcbPaxhs9=s0",
+      "id": "banner_uncropped",
+      "preference": -5
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/7uFXSrhUFbELLnhjM8dISe_YOB3neLj_L_eEM6NanOfRN-wvDMzxHOmzzT3SgyRqA3bRXICB=s900-c-k-c0x00ffffff-no-rj",
+      "height": 900,
+      "width": 900,
+      "id": "7",
+      "resolution": "900x900"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/7uFXSrhUFbELLnhjM8dISe_YOB3neLj_L_eEM6NanOfRN-wvDMzxHOmzzT3SgyRqA3bRXICB=s0",
+      "id": "avatar_uncropped",
+      "preference": 1
+    }
+  ],
+  "uploader_id": "@heysamycomportements",
+  "uploader_url": "https://www.youtube.com/@heysamycomportements",
+  "modified_date": null,
+  "view_count": null,
+  "playlist_count": 10,
+  "uploader": "Hey Samy",
+  "channel_url": "https://www.youtube.com/channel/UC9r0mKat6iQ1lsTB7CGBmRA",
+  "_type": "playlist",
+  "entries": [
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "_LFYvoAiKcA",
+      "url": "https://www.youtube.com/watch?v=_LFYvoAiKcA",
+      "title": "La publicité est-elle vraiment efficace aujourd'hui ?",
+      "description": "L'année 2025, pour la publicité en France, ça a été quelque chose : un sentiment très partagé. Une publicité pour un site de vente de voiture en début d'année qui a rendu fou une...",
+      "duration": 1199.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i9.ytimg.com/vi/_LFYvoAiKcA/hqdefault_custom_1.jpg?sqp=COjWg8sG-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDNa-DzmeCFUzJW6k-oqDSumYT4Vg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i9.ytimg.com/vi/_LFYvoAiKcA/hqdefault_custom_1.jpg?sqp=COjWg8sG-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAKEq1GM9MTYgKCjk15E5Cru5Z69w",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i9.ytimg.com/vi/_LFYvoAiKcA/hqdefault_custom_1.jpg?sqp=COjWg8sG-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaNhzL28EZxKTTQi4mAXd7vgmZ_A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i9.ytimg.com/vi/_LFYvoAiKcA/hqdefault_custom_1.jpg?sqp=COjWg8sG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyijtGouCbrZaHQteExoMLUJORcA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 20676,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "-cSvgv0-7E4",
+      "url": "https://www.youtube.com/watch?v=-cSvgv0-7E4",
+      "title": "Pourquoi Stitch est absolument partout",
+      "description": "Lilo et Stitch est le 42e film des studios d'animation Disney. Et, je ne sais pas pour vous, mais depuis l'année dernière je le vois absolument partout. Avec la sortie prochaine du film live...",
+      "duration": 2244.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/-cSvgv0-7E4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD75s5NkxAo35TIiL-d0XeMPb1U-w",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-cSvgv0-7E4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDkevAMeBJJ-LL6sESu4R61C-sEww",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-cSvgv0-7E4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJAEOt8xcrt6XEiUImkgU5e9qwpg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-cSvgv0-7E4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuUhmYCx6FIDBdjte8lXhbCruVEw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 57762,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "8KQXt2yWQQE",
+      "url": "https://www.youtube.com/watch?v=8KQXt2yWQQE",
+      "title": "Il faut arrêter de parler du cerveau",
+      "description": "Le cerveau c'est compliqué. Le marketing l'a rendu simpliste.\n\nEncore merci à o2switch de soutenir mon travail :\n👉 Pour en savoir plus sur les services d'o2switch : https://bit.ly/o2switch-Sam...",
+      "duration": 1497.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/8KQXt2yWQQE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjZhc-sQrKTJ5q7DWvGMkI_w7ZjQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/8KQXt2yWQQE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCD7DOs4M3TphrWF0d9X-037WPzlg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/8KQXt2yWQQE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw1D_uyKBFvZQyFxzZmI8tfzT7Ag",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/8KQXt2yWQQE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7RJN_b3BPUL3lM_O2mFOSC_o9g",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 42325,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "IcFYnkBcXWs",
+      "url": "https://www.youtube.com/watch?v=IcFYnkBcXWs",
+      "title": "Vendre un robot mixeur comme une secte",
+      "description": "C'est l'histoire d'une entreprise qui fascine depuis des dizaines d'années par son système de vente presque unique aujourd'hui : Thermomix.\n\nL'histoire d'une entreprise dans la même lignée...",
+      "duration": 1897.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/IcFYnkBcXWs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC8SYQalVNt06Zp4-pNI34ci-ageA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/IcFYnkBcXWs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCKmiRgtPO-zudzTecMvO9mflGjkw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/IcFYnkBcXWs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCof3bHXMz6YKHpBAvfH5xdtOxEaQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/IcFYnkBcXWs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZaK8EowOh3ml-jI9JDmSl3dwIuQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 102138,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "pFquhRNnGak",
+      "url": "https://www.youtube.com/watch?v=pFquhRNnGak",
+      "title": "Nous devrions tous continuer à pirater",
+      "description": "Le piratage culturel existe depuis longtemps, très longtemps. Et depuis des années, des centaines de campagne anti-piratage nous expliquent à quel point le piratage tue petit à petit la...",
+      "duration": 1502.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/pFquhRNnGak/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjoZPEv5hw6hWYJhS0hV4_0XFzTQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pFquhRNnGak/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAW0COxoSFJErIUGdIj-OG47LG3kA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pFquhRNnGak/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuWcQP6r39_RFoVd3SqYOCQhjzXA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pFquhRNnGak/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCA-KboFMXQgsgQbd6Izb7BsuZ8Tw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 62664,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "9y0s3nJaHDc",
+      "url": "https://www.youtube.com/watch?v=9y0s3nJaHDc",
+      "title": "Comment 1 centime a changé le monde",
+      "description": "Baisser le prix d’un centime semble être la norme aujourd’hui. Ce qu’on appelle le biais du chiffre de gauche, où l’idée de baisser légèrement un prix pour faire croire au consommateur...",
+      "duration": 906.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9y0s3nJaHDc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBJeBOz8G67m_DH7MFrQHfO6pBk3g",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9y0s3nJaHDc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD8uQcyLNUkyHeLJHA16DQ9f9y_oA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9y0s3nJaHDc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3qZAVGiI7HuHjz9rDc5N7-XpkaQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9y0s3nJaHDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbQjLA6Prh84DNscHdOU0bB1wg6Q",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 232170,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "_XEtFPV989o",
+      "url": "https://www.youtube.com/watch?v=_XEtFPV989o",
+      "title": "Pourquoi seulement 329 personnes vivent de Twitch en France",
+      "description": "Depuis des années, les reproches faits à la plateforme Twitch concernant sa gestion des répartitions des revenus ainsi que de son manque d’investissement auprès des petits streamers se...",
+      "duration": 1076.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/_XEtFPV989o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC_Xb8TV1hXfJF5BlBCwmSF_DDUhw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_XEtFPV989o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAAXwT96mjwXVSEKOCYcz98BNZ2JQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_XEtFPV989o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0eR9xj2rlhBYMaXkeJEtmbxgegg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_XEtFPV989o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6vQFwX75WXxRIDBxVs0_nvH1y1A",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 218861,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "XpYLZD1EPgg",
+      "url": "https://www.youtube.com/watch?v=XpYLZD1EPgg",
+      "title": "Pourquoi on ne trouve plus rien sur Google",
+      "description": "Depuis deux ans, provenant des USA, de plus en plus de personnes affirment que la qualité des résultats de Recherche Google baisse depuis quelques années. Un des grands responsables serait...",
+      "duration": 904.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/XpYLZD1EPgg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBUWxj2xEqNKoPbdWmpuLJZhgbq9A",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XpYLZD1EPgg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBay8FXAInTxSEmywcPDrmoxvonWQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XpYLZD1EPgg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgKkhAoQ0W8eSTY8imjLFQhbeVRg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XpYLZD1EPgg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvFUkpIcXOKU58QeQNr-LdaGc9ig",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 237718,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "7lRldvdjVIk",
+      "url": "https://www.youtube.com/watch?v=7lRldvdjVIk",
+      "title": "Non, Tiktok n'a pas réduit votre attention",
+      "description": "Cette vidéo ne parle que du sujet de l'attention et de son traitement marketing. Cette vidéo ne traite pas du TDAH. Si vous sentez que vous avez besoin d'être accompagné dans une démarche...",
+      "duration": 970.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/7lRldvdjVIk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLChUVyceel8UpQcQnsRo2BfLCKm4g",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7lRldvdjVIk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAXz2hbI1DakyLMd8dpbnZimOPAkA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7lRldvdjVIk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpPOlRqoQkw_cjerm9T9OW2V7ITw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/7lRldvdjVIk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOoAl_L7piZOB273adrtgeQDg6DQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 86400,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "k05DVXF964o",
+      "url": "https://www.youtube.com/watch?v=k05DVXF964o",
+      "title": "L'algorithme Youtube n'est pas contre vous",
+      "description": "EGO est un des créateurs les plus intéressants de ces 12 derniers mois. En un an, il a réussi en seulement une dizaine de vidéos à développer sa chaîne à plus de 500 000 abonnés et...",
+      "duration": 895.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/k05DVXF964o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCmwTN8iSXXRB2RHOMNraUUydbqxQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k05DVXF964o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBi_O81ZIR2viY1mQ-TVwDyqRIiDQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k05DVXF964o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeJqlcToam0Oe_do1B5W9CHjmWpA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/k05DVXF964o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2NnOMjKCtSUlzGw11w_rojPfWsw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 99931,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    }
+  ],
+  "extractor_key": "YoutubeTab",
+  "extractor": "youtube:tab",
+  "webpage_url": "https://www.youtube.com/@heysamycomportements/videos",
+  "original_url": "https://www.youtube.com/@heysamycomportements/videos",
+  "webpage_url_basename": "videos",
+  "webpage_url_domain": "youtube.com",
+  "release_year": null,
+  "epoch": 1767959624
+}
