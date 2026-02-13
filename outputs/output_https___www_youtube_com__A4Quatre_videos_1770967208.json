@@ -1,0 +1,614 @@
+{
+  "id": "UCBw-N2C4H2kdnbKohLmkWMQ",
+  "channel": "AQuatre",
+  "channel_id": "UCBw-N2C4H2kdnbKohLmkWMQ",
+  "title": "AQuatre - Videos",
+  "availability": null,
+  "channel_follower_count": 26800,
+  "description": "We’re two curious minds exploring what fascinates us: the brain, sociology, and society — always through the lens of scientific research.\nIf you enjoy seeing the world differently, with both curiosity and rigor, make sure to subscribe! :)",
+  "tags": [
+    "psychologie",
+    "cognition",
+    "sciences humaines",
+    "biais cognitifs",
+    "paradoxes",
+    "expériences scientifiques",
+    "humain",
+    "curiosité",
+    "intelligence",
+    "storytelling",
+    "animation 3D",
+    "blender",
+    "vidéos éducatives",
+    "science vulgarisée",
+    "psychologie sociale",
+    "philosophie moderne",
+    "expérience mentale",
+    "illusion cognitive",
+    "émotions",
+    "cerveau",
+    "raisonnement",
+    "logique",
+    "YouTube science",
+    "curieux",
+    "connaissance",
+    "développement personnel",
+    "dev perso",
+    "prise de décision",
+    "comportement",
+    "confiance en soi",
+    "motivation",
+    "perception",
+    "curiosité",
+    "aquatre"
+  ],
+  "thumbnails": [
+    {
+      "url": "https://yt3.googleusercontent.com/OkulWxNq5iV9M0hK_H17dB0Usk8CvwQYGYkYqkBj55shgcqA7d9ZJrAvF5h69R8NiX6GtDS3kwc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 175,
+      "width": 1060,
+      "preference": -10,
+      "id": "0",
+      "resolution": "1060x175"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/OkulWxNq5iV9M0hK_H17dB0Usk8CvwQYGYkYqkBj55shgcqA7d9ZJrAvF5h69R8NiX6GtDS3kwc=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 188,
+      "width": 1138,
+      "preference": -10,
+      "id": "1",
+      "resolution": "1138x188"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/OkulWxNq5iV9M0hK_H17dB0Usk8CvwQYGYkYqkBj55shgcqA7d9ZJrAvF5h69R8NiX6GtDS3kwc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 283,
+      "width": 1707,
+      "preference": -10,
+      "id": "2",
+      "resolution": "1707x283"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/OkulWxNq5iV9M0hK_H17dB0Usk8CvwQYGYkYqkBj55shgcqA7d9ZJrAvF5h69R8NiX6GtDS3kwc=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 351,
+      "width": 2120,
+      "preference": -10,
+      "id": "3",
+      "resolution": "2120x351"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/OkulWxNq5iV9M0hK_H17dB0Usk8CvwQYGYkYqkBj55shgcqA7d9ZJrAvF5h69R8NiX6GtDS3kwc=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 377,
+      "width": 2276,
+      "preference": -10,
+      "id": "4",
+      "resolution": "2276x377"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/OkulWxNq5iV9M0hK_H17dB0Usk8CvwQYGYkYqkBj55shgcqA7d9ZJrAvF5h69R8NiX6GtDS3kwc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "height": 424,
+      "width": 2560,
+      "preference": -10,
+      "id": "5",
+      "resolution": "2560x424"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/OkulWxNq5iV9M0hK_H17dB0Usk8CvwQYGYkYqkBj55shgcqA7d9ZJrAvF5h69R8NiX6GtDS3kwc=s0",
+      "id": "banner_uncropped",
+      "preference": -5
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/Gz4BY-dP69E_y2CGbTelKgeh1PP-H3sHcRrW1EMte9ggya3HRDcxDt2OWuj-MBXWf1h3LD-HVQ=s900-c-k-c0x00ffffff-no-rj",
+      "height": 900,
+      "width": 900,
+      "id": "7",
+      "resolution": "900x900"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/Gz4BY-dP69E_y2CGbTelKgeh1PP-H3sHcRrW1EMte9ggya3HRDcxDt2OWuj-MBXWf1h3LD-HVQ=s0",
+      "id": "avatar_uncropped",
+      "preference": 1
+    }
+  ],
+  "uploader_id": "@A4Quatre",
+  "uploader_url": "https://www.youtube.com/@A4Quatre",
+  "modified_date": null,
+  "view_count": null,
+  "playlist_count": 11,
+  "uploader": "AQuatre",
+  "channel_url": "https://www.youtube.com/channel/UCBw-N2C4H2kdnbKohLmkWMQ",
+  "_type": "playlist",
+  "entries": [
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "9ALtIju2RHY",
+      "url": "https://www.youtube.com/watch?v=9ALtIju2RHY",
+      "title": "Who wins at the game of life?",
+      "description": "Thanks to NordVPN for sponsoring this video. Get 4 extra months of NordVPN on 2-year plans with my link: https://nordvpn.com/aquatre\n\nHello :)\n\nI hope you enjoy this video! We put a lot of...",
+      "duration": 1130.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9ALtIju2RHY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0r9N7Nztdx83vRf16ISY2Y0gfxw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9ALtIju2RHY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4PtxxZJBZswwxrTi8N9ONZP-EKQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9ALtIju2RHY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkIeHCHof8E2KLKywMxhTmaLFV_A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9ALtIju2RHY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbewZvJwbsWMl9Ih3KQsV64WLGQg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 27535,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "cFMhLbLSpz8",
+      "url": "https://www.youtube.com/watch?v=cFMhLbLSpz8",
+      "title": "Harvard reveals the secret to happiness",
+      "description": "Hello :) We wish you a very happy new year!\n\nWe really hope you enjoy this video! We put a lot of effort into it, and it's a topic that's very important to us.\n\nWe also wanted to thank you...",
+      "duration": 626.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/cFMhLbLSpz8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7kH1eOXl_oHRvJd_z7sAn-oWnsw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cFMhLbLSpz8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAAEe6sgUsjqN3din_4HDknLbMOyQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cFMhLbLSpz8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADWpCh8MNyGaCStAUC2Mi_5INLGQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cFMhLbLSpz8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2OVIKwTMiO9LtrYF6DcVMElN6fg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 178158,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "R9NkYCjjeKI",
+      "url": "https://www.youtube.com/watch?v=R9NkYCjjeKI",
+      "title": "The graph that everyone misunderstood",
+      "description": "So, how did you get on the test? :)\n\n_\n\nWhy are the least competent people often the most self-confident? You've probably already come across the famous Dunning-Kruger curve and its infamous...",
+      "duration": 663.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/R9NkYCjjeKI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBuW4YGp4zLaD985NceX5vuFFFNjw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/R9NkYCjjeKI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDm2slvV5m4ALcYci0PGhKwVHQdmQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/R9NkYCjjeKI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEr1Xn9ZYBypfjaE32S14Gvj2eFQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/R9NkYCjjeKI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7gpVjyIti1oVWFDHhro-kN6t0-A",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 51478,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "aVHxFcY69Lk",
+      "url": "https://www.youtube.com/watch?v=aVHxFcY69Lk",
+      "title": "Can the marshmallow test predict your success?",
+      "description": "🌑 Turn your life into an RPG with Eclipse. 30% off promo code: AQUATRE1: https://www.eclipse-notion.fr (advertisement)\n\nDiscord La Guilde: https://discord.com/invite/la-guilde-116897858003482629...",
+      "duration": 665.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/aVHxFcY69Lk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCiSWDQeWo6kYJCMX5qeC7Y2yqJhA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aVHxFcY69Lk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA_IShtUaS0AqgWtKpiHOBT1EbBpg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aVHxFcY69Lk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxr2rk09e13rmEFNTpYQ7PYRqksA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aVHxFcY69Lk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyNN2huN9-o0j8dc8Lx7VZgH1j5A",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 26480,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "sy8GhhUbJ2w",
+      "url": "https://www.youtube.com/watch?v=sy8GhhUbJ2w",
+      "title": "The paradox that ridiculed the scientific elite",
+      "description": "Three doors, one choice, and a trap that 90% of people don't see coming.\n\nThe simulator if you're still unsure: https://montyhall.io/\n(ps: even knowing the solution, I find it fun)\n\n\nIn this...",
+      "duration": 640.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/sy8GhhUbJ2w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAhK69QrN8dGfgApJoOxqWcJlCGWQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sy8GhhUbJ2w/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCvweD00e9OKU5ADzYy1ekMPMH5wA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sy8GhhUbJ2w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB37IdH5YW0xCgbryk7Glj00M6CSQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/sy8GhhUbJ2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0art2en_zxQr-NgAEpcXmEjr6XQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 53600,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "gqhNYu47e8M",
+      "url": "https://www.youtube.com/watch?v=gqhNYu47e8M",
+      "title": "Tu n'es pas le centre du monde (et c'est une bonne nouvelle)",
+      "description": "Je n’ai rien contre Patrick Sébastien  ;)\n\n_ _ _\n\nL’effet spotlight, ou pourquoi vous pensez que tout le monde vous regarde… alors qu’en réalité, personne ne fait attention. Dans...",
+      "duration": 578.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/gqhNYu47e8M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDyTf_4G2LwF4iXHv6ulTIHGB98Sg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gqhNYu47e8M/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBV44qd3KMyOmKK8rPi-SuTxSEgJg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gqhNYu47e8M/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp5TwoF4MOQEQpI2BeG41qsvsnAQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gqhNYu47e8M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr9x9eAj40t7x5ORVTqeodQw6YcA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 34801,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "z3oRYrHlcJA",
+      "url": "https://www.youtube.com/watch?v=z3oRYrHlcJA",
+      "title": "The Decoy Effect (or Why You Make the Wrong Decision)",
+      "description": "So, what are your results? ;)\n_ _ _\n\nDiscover the decoy effect: a cognitive bias that manipulates your decisions without you realizing it. In this video, we explore how absurd choices can influence...",
+      "duration": 661.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/z3oRYrHlcJA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZjf7b5DqjMnk__rc8JwgWXUznpQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/z3oRYrHlcJA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBRdjEsowqRjbdxOhsJoSLyvvBePQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/z3oRYrHlcJA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2xIWA9-ci9Dy7ALMmbp1LOhwDOA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/z3oRYrHlcJA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7B66_gE91JkYL1JwsJGIeBFuOMw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 122091,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "zuQlIJVcCnE",
+      "url": "https://www.youtube.com/watch?v=zuQlIJVcCnE",
+      "title": "The Cookie Theory (or Why We Are Inactive)",
+      "description": "How disrespectful to radishes!\n\n---\n\nWhy do we sometimes give up so quickly? What if it's not a lack of motivation, but an invisible mental fatigue? In this video, I share a famous experiment...",
+      "duration": 676.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/zuQlIJVcCnE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDUP5wy7Wf3th0_aKhVfZo5AP-mwA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zuQlIJVcCnE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBY39QzGwtpAy_KiGCETj29aTQSyA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zuQlIJVcCnE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCta37Fz7r2Zx59Zr_taffAxh7-bg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/zuQlIJVcCnE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXwFGNn5EqzXB6bp4hdDBLA19KHg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 172910,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "pfKyKWLABw0",
+      "url": "https://www.youtube.com/watch?v=pfKyKWLABw0",
+      "title": "Et si le but n'était pas de trouver Charlie ?",
+      "description": "C'est quand la dernière fois que vous avez lu Où est Charlie ?\n\n_ _ _\n\nEt si \"Où est Charlie ?\" n’avait jamais été une chasse au trésor… Dans cette vidéo captivante, on plonge dans...",
+      "duration": 349.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/pfKyKWLABw0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCE68hhztYtXhl_vP-RTukVGwFenQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pfKyKWLABw0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7fh52r6JO_HzbX1f4bjShYv_26A",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pfKyKWLABw0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhjw6dj3IznvYbKVBXeK0o3ahlWg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pfKyKWLABw0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaRWXTD1Oz8yie7eLD3JOyZBLQNg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 98947,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "H_UfiGis78g",
+      "url": "https://www.youtube.com/watch?v=H_UfiGis78g",
+      "title": "Who is really STEVE in Minecraft? (Investigation)",
+      "description": "What if Minecraft hid a much darker story than we imagine?\n\n_ _ _\n\nIn this video, we explore the past of an ancient civilization: the Builders. We discover how they built temples, fought monsters,...",
+      "duration": 864.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/H_UfiGis78g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC7f6M8ch_0tiiTXHt14MYZCFsbYA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/H_UfiGis78g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBMwTH_TypFh07nPkfeX_2rTm2Fxw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/H_UfiGis78g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs71ORlDzCMXfDclrgLzSyyFcHbg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/H_UfiGis78g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWvihFsNAN9-4f1Xi6LtWopeEX3g",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 31218,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "GZG620WjjFg",
+      "url": "https://www.youtube.com/watch?v=GZG620WjjFg",
+      "title": "Les jeux vidéos rendent-ils MALHEUREUX ?",
+      "description": "Quel est mon main et mon rank sur League of Legend ?\n\n\nLeblanc et Emeraude.\n\n_ _ _\n\nC'est notre toute première vidéo sur YouTube, et ce n'est que le début ! D'ailleurs, ce n'est que le premier...",
+      "duration": 588.0,
+      "channel_id": null,
+      "channel": null,
+      "channel_url": null,
+      "uploader": null,
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/GZG620WjjFg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBXb-KkOrerIOoFW1pdNeuIydBszg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/GZG620WjjFg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBP3c5knwQx1HQxQ7Xt4ISbUBZQ7w",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/GZG620WjjFg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaMcvgy8MOI9VWhRufQbu0HeXSlg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/GZG620WjjFg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGbmSd1I6R3kMYt2nNDivRbWcG3w",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 13843,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    }
+  ],
+  "extractor_key": "YoutubeTab",
+  "extractor": "youtube:tab",
+  "webpage_url": "https://www.youtube.com/@A4Quatre/videos",
+  "original_url": "https://www.youtube.com/@A4Quatre/videos",
+  "webpage_url_basename": "videos",
+  "webpage_url_domain": "youtube.com",
+  "release_year": null,
+  "epoch": 1770967209
+}
